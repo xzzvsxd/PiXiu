@@ -54,9 +54,9 @@ api key可以从阿里云通义千问Qwen-VL-Max页面获取。
 
 FinGLM (https://github.com/MetaGLM/FinGLM)  
 freegpt-webui (https://github.com/ramon-victor/freegpt-webui)  
-gpt4free (https://github.com/xtekky/gpt4free)
-ChatGLM2 (https://github.com/THUDM/ChatGLM2-6B)
-XuanYuan (https://github.com/Duxiaoman-DI/XuanYuan)
+gpt4free (https://github.com/xtekky/gpt4free)  
+ChatGLM2 (https://github.com/THUDM/ChatGLM2-6B)  
+XuanYuan (https://github.com/Duxiaoman-DI/XuanYuan)  
 Qwen (https://github.com/QwenLM/Qwen-VL)
 
 
