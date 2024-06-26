@@ -1,0 +1,13 @@
+page|7
+公司的中文名称|广东骏亚电子科技股份有限公司
+公司的中文简称|广东骏亚
+公司的外文名称|Guangdong Champion Asia Electronics CO.,LTD.
+公司的外文名称缩写|Champion Asia
+公司的法定代表人|叶晓彬
+page|7
+公司注册地址|广东省惠州市惠城区（三栋）数码工业园25号区
+公司注册地址的邮政编码|516003
+公司办公地址|广东省惠州市惠城区（三栋）数码工业园25号区
+公司办公地址的邮政编码|516003
+公司网址|http://www.championasia.hk/
+电子信箱|investor@championasia.hk

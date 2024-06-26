@@ -1,0 +1,12 @@
+page|7
+公司的中文名称|杭州爱科科技股份有限公司
+公司的中文简称|爱科科技
+公司的外文名称|Hangzhou IECHO Science & Technology Co., Ltd.
+公司的外文名称缩写|IECHO
+公司的法定代表人|方云科
+公司注册地址|杭州市滨江区伟业路1号1幢
+公司注册地址的邮政编码|310053
+公司办公地址|杭州市滨江区伟业路1号1幢
+公司办公地址的邮政编码|310053
+公司网址|http://www.iechosoft.com/
+电子信箱|office@iechosoft.com

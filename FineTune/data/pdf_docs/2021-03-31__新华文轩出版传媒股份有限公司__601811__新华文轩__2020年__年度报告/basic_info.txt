@@ -1,0 +1,14 @@
+page|5
+公司的中文名称|新华文轩出版传媒股份有限公司
+公司的中文简称|新华文轩
+公司的外文名称|Xinhua Winshare Publishing & Media Co.,Ltd.
+公司的外文名称缩写|Xinhua Winshare
+公司的法定代表人|何志勇
+page|5
+公司注册地址|四川省成都市锦江区金石路239号4栋1层1号
+公司注册地址的邮政编码|610000
+page|6
+公司办公地址|四川省成都市金牛区蓉北商贸大道文轩路6号
+公司办公地址的邮政编码|610081
+公司网址|http://www.winshare.com.cn
+电子信箱|xh-dsb@winshare.com.cn

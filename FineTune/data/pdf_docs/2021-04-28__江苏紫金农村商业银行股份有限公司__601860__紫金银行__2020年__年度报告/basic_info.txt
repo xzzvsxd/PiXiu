@@ -1,0 +1,13 @@
+page|4
+公司的中文名称|江苏紫金农村商业银行股份有限公司
+公司的中文简称|紫金农商银行
+公司的外文名称|Jiangsu Zijin Rural Commercial Bank Co.,Ltd
+公司的外文名称缩写|ZJB
+公司的法定代表人|汤宇
+page|4
+公司注册地址|南京市建邺区江东中路381号
+公司注册地址的邮政编码|210019
+公司办公地址|南京市建邺区江东中路381号
+公司办公地址的邮政编码|210019
+公司网址|www.zjrcbank.com
+电子信箱|boardoffice@zjrcbank.com

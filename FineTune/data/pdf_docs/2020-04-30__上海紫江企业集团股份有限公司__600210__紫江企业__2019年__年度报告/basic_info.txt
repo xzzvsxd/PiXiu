@@ -1,0 +1,13 @@
+page|4
+公司的中文名称|上海紫江企业集团股份有限公司
+公司的中文简称|紫江企业
+公司的外文名称|SHANGHAI ZIJIANG ENTERPRISE GROUP CO.,LTD
+公司的外文名称缩写|ZJQY
+公司的法定代表人|沈雯
+page|4
+公司注册地址|上海市莘庄工业区申富路618号
+公司注册地址的邮政编码|201108
+公司办公地址|上海市虹桥路2272号虹桥商务大厦7楼C座
+公司办公地址的邮政编码|200336
+公司网址|http://www.zijiangqy.com
+电子信箱|zijiangqy@zijiangqy.com

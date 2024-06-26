@@ -1,0 +1,12 @@
+page|5
+公司的中文名称|天津海泰科技发展股份有限公司
+公司的中文简称|海泰发展
+公司的外文名称|Tianjin Hi-Tech Development Co.,Ltd.
+公司的外文名称缩写|HiTech Develop
+公司的法定代表人|董建新
+page|5
+公司注册地址|天津新技术产业园区华苑产业区
+公司办公地址|天津市滨海高新区华苑产业区（环外）海泰发展五道16号C号楼C座
+公司办公地址的邮政编码|300384
+公司网址|www.hitech-develop.com
+电子信箱|irm@hitech-develop.com

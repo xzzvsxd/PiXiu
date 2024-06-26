@@ -1,0 +1,14 @@
+page|5
+公司的中文名称|中远海运控股股份有限公司
+公司的中文简称|中远海控
+公司的外文名称|COSCO SHIPPING Holdings Co., Ltd.
+公司的外文名称缩写|COSCO SHIP HOLD
+公司的法定代表人|许立荣
+page|5
+公司注册地址|天津市天津空港经济区中心大道与东七道交口远航商务中心12号楼二层
+公司注册地址的邮政编码|300461
+公司办公地址|上海市东大名路658号8楼
+page|6
+公司办公地址的邮政编码|200080
+公司网址|http://hold.coscoshipping.com
+电子信箱|investor@coscoshipping.com

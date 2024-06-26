@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|上海环境集团股份有限公司
+公司的中文简称|上海环境
+公司的外文名称|SHANGHAI ENVIRONMENT GROUP CO., LTD.
+公司的外文名称缩写|SHANGHAI ENVIRONMENT
+公司的法定代表人|王瑟澜
+page|5
+公司注册地址|上海市长宁区虹桥路1881号
+公司注册地址的邮政编码|200336
+公司办公地址|上海市长宁区虹桥路1881号
+公司办公地址的邮政编码|200336
+公司网址|http://www.smi-envir.com/
+电子信箱|shhj@shenvir.com

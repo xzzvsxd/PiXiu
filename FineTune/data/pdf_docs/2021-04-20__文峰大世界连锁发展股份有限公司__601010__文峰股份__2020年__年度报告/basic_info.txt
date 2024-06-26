@@ -1,0 +1,14 @@
+page|4
+公司的中文名称|文峰大世界连锁发展股份有限公司
+公司的中文简称|文峰大世界
+公司的外文名称|Wenfeng      Great World Chain Development Corporation
+公司的外文名称缩写|WFDSJ
+公司的法定代表人|贾云博
+page|4
+公司注册地址|江苏省南通市南大街3-21号
+公司注册地址的邮政编码|226001
+公司办公地址|江苏省南通市青年中路59号
+公司办公地址的邮政编码|226007
+page|5
+公司网址|http://www.wfdsj.com.cn
+电子信箱|wf@wfgf.cn

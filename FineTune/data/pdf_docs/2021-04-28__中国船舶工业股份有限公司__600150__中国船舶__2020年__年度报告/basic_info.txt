@@ -1,0 +1,13 @@
+page|6
+公司的中文名称|中国船舶工业股份有限公司
+公司的中文简称|中国船舶
+公司的外文名称|China CSSC Holdings Limited
+公司的外文名称缩写|CSSC Holdings
+公司的法定代表人|张英岱
+page|6
+公司注册地址|中国（上海）自由贸易试验区浦东大道1号
+公司注册地址的邮政编码|200120
+公司办公地址|上海市浦东大道1号15A层
+公司办公地址的邮政编码|200120
+公司网址|http://csscholdings.cssc.net.cn
+电子信箱|stock@csscholdings.com

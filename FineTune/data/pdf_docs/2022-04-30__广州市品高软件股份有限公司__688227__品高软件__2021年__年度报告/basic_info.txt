@@ -1,0 +1,12 @@
+page|11
+公司的中文名称|广州市品高软件股份有限公司
+公司的中文简称|品高股份
+公司的外文名称|BingoSoftwareCo.,Ltd.
+公司的外文名称缩写|BingoSoftware
+公司的法定代表人|黄海
+公司注册地址|广州市天河区软件路17号第G1栋
+公司注册地址的历史变更情况|
+公司办公地址|广州市天河区软件路17号第G1栋
+公司办公地址的邮政编码|510663
+公司网址|https://www.bingosoft.net
+电子信箱|bingozhengquan@bingosoft.net

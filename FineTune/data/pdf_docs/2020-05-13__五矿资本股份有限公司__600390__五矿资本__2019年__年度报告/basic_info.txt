@@ -1,0 +1,13 @@
+page|4
+公司的中文名称|五矿资本股份有限公司
+公司的中文简称|五矿资本
+公司的外文名称|MINMETALS CAPITAL COMPANY LIMITED
+公司的外文名称缩写|MINMETALS CAPITAL
+公司的法定代表人|赵立功
+page|5
+公司注册地址|长沙市高新技术开发区麓枫路  69  号
+公司注册地址的邮政编码|410205
+公司办公地址|北京市海淀区三里河路5号；湖南省长沙市岳麓区麓山南路966号
+公司办公地址的邮政编码|100044；410012
+公司网址|www.minfinance.com.cn
+电子信箱|minfinance@minmetals.com；minfinance@minfinance.com.cn

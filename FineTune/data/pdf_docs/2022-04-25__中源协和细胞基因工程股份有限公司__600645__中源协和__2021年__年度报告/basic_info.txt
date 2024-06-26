@@ -1,0 +1,17 @@
+page|4
+公司的中文名称|中源协和细胞基因工程股份有限公司
+公司的中文简称|中源协和
+公司的外文名称|VCANBIO CELL & GENE ENGINEERING CORP., LTD
+公司的外文名称缩写|VCANBIO
+公司的法定代表人|王勇
+page|5
+电话|022-58617160|022-58617160
+传真|022-58617161|022-58617161
+电子信箱|zhongyuanxiehe@vcanbio.com|zhongyuanxiehe@vcanbio.com
+page|5
+公司注册地址|天津市滨海新区（津南）创意中心A座1002室
+公司注册地址的历史变更情况|注册地址变更情况详见公司公告：2008-033
+公司办公地址|天津市南开区华苑产业园区梅苑路12号
+公司办公地址的邮政编码|300384
+公司网址|www.vcanbio.com
+电子信箱|zhongyuanxiehe@vcanbio.com

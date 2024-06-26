@@ -1,0 +1,13 @@
+page|6
+公司的中文名称|中再资源环境股份有限公司
+公司的中文简称|中再资环
+公司的外文名称|China Resources and Environment Co.,Ltd.
+公司的外文名称缩写|CRE
+公司的法定代表人|徐如奎
+page|6
+公司注册地址|陕西省铜川市耀州区东郊
+公司注册地址的邮政编码|727100
+公司办公地址|北京市西城区宣武门外大街甲1号环球财讯中心B座8层
+公司办公地址的邮政编码|100052
+公司网址|http://www.zhongzaizihuan.com
+电子信箱|irm@zhongzaizihuan.com

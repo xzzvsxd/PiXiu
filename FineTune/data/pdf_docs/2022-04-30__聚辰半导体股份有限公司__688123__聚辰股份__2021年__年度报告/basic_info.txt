@@ -1,0 +1,13 @@
+page|8
+一、公司基本情况|
+公司的中文名称|聚辰半导体股份有限公司
+公司的中文简称|聚辰股份
+公司的外文名称|Giantec Semiconductor Corporation
+公司的外文名称缩写|Giantec Semiconductor
+公司的法定代表人|陈作涛
+公司注册地址|上海市自由贸易试验区松涛路647弄12号
+公司注册地址的历史变更情况|/
+公司办公地址|上海市自由贸易试验区松涛路647弄12号
+公司办公地址的邮政编码|201203
+公司网址|www.giantec-semi.com
+电子信箱|investors@giantec-semi.com

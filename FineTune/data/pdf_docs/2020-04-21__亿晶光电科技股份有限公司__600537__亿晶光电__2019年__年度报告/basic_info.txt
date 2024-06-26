@@ -1,0 +1,14 @@
+page|4
+公司的中文名称|亿晶光电科技股份有限公司
+公司的中文简称|亿晶光电
+公司的外文名称|EGing Photovoltaic Technology Co.,Ltd.
+公司的外文名称缩写|EGing PV
+公司的法定代表人|李静武
+page|4
+公司注册地址|浙江省慈溪市海通路528号
+公司注册地址的邮政编码|315300
+公司办公地址|江苏省常州市金坛区金武路18号
+page|5
+公司办公地址的邮政编码|213213
+公司网址|www.egingpv.com
+电子信箱|eging-public@egingpv.com

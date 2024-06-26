@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|广东迪生力汽配股份有限公司
+公司的中文简称|迪生力
+公司的外文名称|Guangdong Dcenti Auto-Parts Stock Limited Company
+公司的外文名称缩写|Dcenti
+公司的法定代表人|赵瑞贞
+page|5
+公司注册地址|台山市西湖外商投资示范区
+公司注册地址的历史变更情况|529200
+公司办公地址|台山市西湖外商投资示范区
+公司办公地址的邮政编码|529200
+公司网址|http://www.dcenti.cn
+电子信箱|dcenti@vip.163.com

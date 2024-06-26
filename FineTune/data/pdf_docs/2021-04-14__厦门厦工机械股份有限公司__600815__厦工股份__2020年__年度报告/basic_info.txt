@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|厦门厦工机械股份有限公司
+公司的中文简称|厦工股份
+公司的外文名称|Xiamen XGMA Machinery Company Limited.
+公司的外文名称缩写|XGMA
+公司的法定代表人|谷涛
+page|5
+公司注册地址|厦门市思明区厦禾路668号
+公司注册地址的邮政编码|361000
+公司办公地址|厦门市灌口南路668号之八
+公司办公地址的邮政编码|361023
+公司网址|www.xiagong.com,www.xgma.com.cn
+电子信箱|stock@xiagong.com

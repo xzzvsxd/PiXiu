@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|上海电气集团股份有限公司
+公司的中文简称|上海电气
+公司的外文名称|Shanghai Electric Group Company Limited
+公司的外文名称缩写|Shanghai Electric
+公司的法定代表人|郑建华
+page|5
+公司注册地址|上海市兴义路8号万都中心30楼
+公司注册地址的邮政编码|200336
+公司办公地址|上海市黄浦区四川中路110号
+公司办公地址的邮政编码|200002
+公司网址|http://www.shanghai-electric.com
+电子信箱|service@shanghai-electric.com

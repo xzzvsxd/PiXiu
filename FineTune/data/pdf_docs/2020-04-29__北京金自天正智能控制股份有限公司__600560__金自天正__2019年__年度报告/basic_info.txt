@@ -1,0 +1,13 @@
+page|4
+公司的中文名称|北京金自天正智能控制股份有限公司
+公司的中文简称|金自天正
+公司的外文名称|Beijing AriTime Intelligent Control Co., Ltd.
+公司的外文名称缩写|AriTime
+公司的法定代表人|胡宇
+page|4
+公司注册地址|北京市丰台区科学城富丰路６号
+公司注册地址的邮政编码|100070
+公司办公地址|北京市丰台区科学城富丰路６号
+公司办公地址的邮政编码|100070
+公司网址|http://www.AriTime.com
+电子信箱|aritime@AriTime.com

@@ -1,0 +1,13 @@
+page|4
+公司的中文名称|上海金桥出口加工区开发股份有限公司
+公司的中文简称|浦东金桥
+公司的外文名称|SHANGHAI JINQIAO EXPORT PROCESSING ZONE DEVELOPMENT CO.,LTD
+公司的外文名称缩写|Golden Bridge
+公司的法定代表人|王颖
+page|4
+公司注册地址|中国（上海）自由贸易试验区新金桥路28号
+公司注册地址的邮政编码|201206
+公司办公地址|上海浦东新区新金桥路27号18号楼
+公司办公地址的邮政编码|201206
+公司网址|www.shpdjq.com
+电子信箱|jqir@shpdjq.com

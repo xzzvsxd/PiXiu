@@ -1,0 +1,13 @@
+page|4
+公司的中文名称|安徽梦舟实业股份有限公司
+公司的中文简称|梦舟股份
+公司的外文名称|KingswoodEnterpriseCo.,Ltd
+公司的外文名称缩写|Kingswood
+公司的法定代表人|宋志刚
+page|5
+公司注册地址|安徽省芜湖市经济技术开发区珠江路3号
+公司注册地址的邮政编码|241006
+公司办公地址|安徽省芜湖市经济技术开发区珠江路3号
+公司办公地址的邮政编码|241006
+公司网址|http://www.anhuikingswood.com
+电子信箱|kingswood@anhuikingswood.com

@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|海利尔药业集团股份有限公司
+公司的中文简称|海利尔
+公司的外文名称|Hailir Pesticides and Chemicals Group Co.,Ltd.
+公司的外文名称缩写|hailir
+公司的法定代表人|葛家成
+page|5
+公司注册地址|青岛市城阳区城东工业园内
+公司注册地址的邮政编码|266109
+公司办公地址|青岛市城阳区国城路216号
+公司办公地址的邮政编码|266109
+公司网址|http://www.hailir.cn
+电子信箱|hailir@hailir.cn

@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|江苏扬农化工股份有限公司
+公司的中文简称|扬农化工
+公司的外文名称|Jiangsu Yangnong Chemical Co.,Ltd.
+公司的外文名称缩写|Yangnong Chemical
+公司的法定代表人|覃衡德
+page|5
+公司注册地址|江苏省扬州市文峰路39号
+公司注册地址的历史变更情况|不适用
+公司办公地址|江苏省扬州市邗江区安桥路高新区大厦 2-5 层
+公司办公地址的邮政编码|225012
+公司网址|www.yangnongchem.com
+电子信箱|yngf@yangnongchem.com

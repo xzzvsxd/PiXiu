@@ -1,0 +1,13 @@
+page|8
+股票简称|中泰股份|股票代码|300435
+公司的中文名称|杭州中泰深冷技术股份有限公司||
+公司的中文简称|中泰股份||
+公司的外文名称（如有）|Hangzhou Zhongtai Cryogenic Technology Corporation||
+公司的外文名称缩写（如有）|Zhongtai Cryogenic||
+公司的法定代表人|章有虎||
+注册地址|杭州市富阳区东洲街道高尔夫路 228 号||
+注册地址的邮政编码|311402||
+办公地址|杭州市富阳区东洲街道高尔夫路 228 号||
+办公地址的邮政编码|311402||
+公司国际互联网网址|http://www.zhongtaihangzhou.com/||
+电子信箱|info@zhongtaichina.com||

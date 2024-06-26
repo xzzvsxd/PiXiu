@@ -1,0 +1,13 @@
+page|4
+公司的中文名称|安徽四创电子股份有限公司
+公司的中文简称|四创电子
+公司的外文名称|Anhui Sun Create Electronics Co., Ltd
+公司的外文名称缩写|Sun Create
+公司的法定代表人|陈信平
+page|4
+公司注册地址|安徽省合肥市高新技术产业开发区
+公司注册地址的邮政编码|230088
+公司办公地址|安徽省合肥市高新技术产业开发区习友路3366号
+公司办公地址的邮政编码|230088
+公司网址|http://www.sun-create.com
+电子信箱|wangxiangxin@sun-create.com

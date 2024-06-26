@@ -1,0 +1,13 @@
+page|6
+公司的中文名称|浙江大丰实业股份有限公司
+公司的中文简称|大丰实业
+公司的外文名称|Zhejiang Dafeng Industry Co., Ltd
+公司的外文名称缩写|DAFENG INDUSTRY
+公司的法定代表人|丰华
+page|6
+公司注册地址|余姚市阳明科技工业园区新建北路 737 号
+公司注册地址的邮政编码|315400
+公司办公地址|余姚市阳明科技工业园区新建北路 737 号
+公司办公地址的邮政编码|315400
+公司网址|www.chinadafeng.com
+电子信箱|stock@chinadafeng.com

@@ -1,0 +1,13 @@
+page|4
+公司的中文名称|浙江金海环境技术股份有限公司
+公司的中文简称|金海环境
+公司的外文名称|Zhejiang Goldensea Environment Technology Co.,Ltd
+公司的外文名称缩写|GOLDENSEA
+公司的法定代表人|丁宏广
+page|4
+公司注册地址|浙江省诸暨市应店街镇工业区
+公司注册地址的邮政编码|311817
+公司办公地址|浙江省诸暨市应店街镇工业区
+公司办公地址的邮政编码|311817
+公司网址|http://www.goldensea.cn
+电子信箱|touzizhe@goldensea.cn

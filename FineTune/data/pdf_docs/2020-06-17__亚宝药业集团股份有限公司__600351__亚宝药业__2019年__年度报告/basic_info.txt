@@ -1,0 +1,14 @@
+page|4
+公司的中文名称|亚宝药业集团股份有限公司
+公司的中文简称|亚宝药业
+公司的外文名称|YABAOPHARMACEUTICALGROUPCO.LTD
+page|5
+公司的外文名称缩写|YABAOPHARM.CORP
+公司的法定代表人|任武贤
+page|5
+公司注册地址|山西省芮城县富民路43号
+公司注册地址的邮政编码|044600
+公司办公地址|北京经济技术开发区天华北街11号院2号楼11层
+公司办公地址的邮政编码|100176
+公司网址|http://www.yabao.com.cn
+电子信箱|yabao@yabaoyaoye.com

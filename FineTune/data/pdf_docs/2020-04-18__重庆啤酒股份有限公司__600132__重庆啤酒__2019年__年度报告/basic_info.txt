@@ -1,0 +1,13 @@
+page|4
+公司的中文名称|重庆啤酒股份有限公司
+公司的中文简称|重庆啤酒
+公司的外文名称|Chongqing Brewery Co., Ltd.
+公司的外文名称缩写|CBC
+公司的法定代表人|Roland Arthur Lawrence
+page|4
+公司注册地址|重庆市北部新区高新园大竹林街道恒山东路9号
+公司注册地址的邮政编码|401123
+公司办公地址|重庆市九龙坡区马王乡龙泉村1号
+公司办公地址的邮政编码|400080
+公司网址|www.chongqingbeer.com
+电子信箱|CBCSMIR@chongqinggroup.cn

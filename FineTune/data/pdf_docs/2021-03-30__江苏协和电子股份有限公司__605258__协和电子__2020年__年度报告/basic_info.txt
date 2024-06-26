@@ -1,0 +1,14 @@
+page|4
+公司的中文名称|江苏协和电子股份有限公司
+公司的中文简称|协和电子
+公司的外文名称|Jiangsu Xiehe Electronic Co.,Ltd.
+公司的外文名称缩写|Xiehe Electronic
+公司的法定代表人|张南国
+page|4
+公司注册地址|武进区横林镇塘头路4号
+公司注册地址的邮政编码|213101
+page|5
+公司办公地址|武进区横林镇塘头路4号
+公司办公地址的邮政编码|213101
+公司网址|www.xiehepcb.com
+电子信箱|sunrongfa@xiehepcb.com

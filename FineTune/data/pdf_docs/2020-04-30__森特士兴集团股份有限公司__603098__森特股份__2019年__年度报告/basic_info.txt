@@ -1,0 +1,15 @@
+page|5
+公司的中文名称|森特士兴集团股份有限公司
+公司的中文简称|森特股份
+公司的外文名称|CENTER INTERNATIONAL GROUP CO.,LTD.
+公司的外文名称缩写|CENTER INT
+公司的法定代表人|刘爱森
+page|6
+电子信箱|stock@centerint.com|stock@centerint.com
+page|6
+公司注册地址|北京市北京经济技术开发区融兴北二街1号院2号楼1层101
+公司注册地址的邮政编码|100176
+公司办公地址|北京市北京经济技术开发区景园北街2号20号楼
+公司办公地址的邮政编码|100176
+公司网址|www.centerint.com
+电子信箱|stock@centerint.com

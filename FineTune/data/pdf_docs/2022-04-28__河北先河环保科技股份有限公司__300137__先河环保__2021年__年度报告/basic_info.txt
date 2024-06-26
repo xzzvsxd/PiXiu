@@ -1,0 +1,14 @@
+page|6
+股票简称|先河环保|股票代码|300137
+公司的中文名称|河北先河环保科技股份有限公司||
+公司的中文简称|先河环保||
+公司的外文名称（如有）|Hebei Sailhero Environmental Protection   High-tech Co.,ltd||
+公司的外文名称缩写（如有） SailheroEnviroprotec|||
+公司的法定代表人|李玉国||
+注册地址|石家庄市湘江道 251 号||
+注册地址的邮政编码|050035||
+公司注册地址历史变更情况  无|||
+办公地址|石家庄市湘江道 251 号||
+办公地址的邮政编码|050035||
+公司国际互联网网址|http://www.sailhero.com.cn||
+电子信箱|xhhbzq@sailhero.com.cn||

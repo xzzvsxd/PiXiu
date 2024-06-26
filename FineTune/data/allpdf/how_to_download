@@ -1,0 +1,2 @@
+# 要求安装 git lfs
+git clone http://www.modelscope.cn/datasets/modelscope/chatglm_llm_fintech_raw_dataset.git

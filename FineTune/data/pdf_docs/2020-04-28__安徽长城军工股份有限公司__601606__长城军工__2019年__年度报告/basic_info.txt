@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|安徽长城军工股份有限公司
+公司的中文简称|长城军工
+公司的外文名称|Anhui GreatWall Military Industry Co., Ltd
+公司的外文名称缩写|GreatWall Military
+公司的法定代表人|王本河
+page|5
+公司注册地址|安徽省合肥市经济技术开发区合掌路99号
+公司注册地址的邮政编码|230601
+公司办公地址|合肥市包河区徽州大道463号
+公司办公地址的邮政编码|230022
+公司网址|www.ahccjg.com.cn
+电子信箱|ahccjg@ahccjg.com.cn

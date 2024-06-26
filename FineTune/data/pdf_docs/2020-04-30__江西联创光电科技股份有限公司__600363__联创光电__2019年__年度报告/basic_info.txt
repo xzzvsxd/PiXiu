@@ -1,0 +1,14 @@
+page|4
+公司的中文名称|江西联创光电科技股份有限公司
+公司的中文简称|联创光电
+公司的外文名称|JIANGXILIANCHUANGOPTO-ELECTRONIC SCIENCE&TECHNOLOGYCO.,LTD
+page|5
+公司的外文名称缩写|Lianovation
+公司的法定代表人|曾智斌
+page|5
+公司注册地址|江西省南昌市高新技术产业开发区京东大道168号
+公司注册地址的邮政编码|330096
+公司办公地址|江西省南昌市高新技术产业开发区京东大道168号
+公司办公地址的邮政编码|330096
+公司网址|www.lianovation.com.cn
+电子信箱|600363@lianovation.com.cn

@@ -1,0 +1,13 @@
+page|4
+公司的中文名称|苏州兴业材料科技股份有限公司
+公司的中文简称|兴业股份
+公司的外文名称|Suzhou Xingye Materials Technology Co.,Ltd.
+公司的外文名称缩写|Xingye
+公司的法定代表人|王进兴
+page|5
+公司注册地址|苏州高新区浒关工业园道安路15号
+公司注册地址的邮政编码|215151
+公司办公地址|苏州高新区浒关工业园道安路15号
+公司办公地址的邮政编码|215151
+公司网址|www.chinaxingye.com
+电子信箱|xingye@chinaxingye.com

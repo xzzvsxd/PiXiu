@@ -1,0 +1,13 @@
+page|11
+公司的中文名称|广州金域医学检验集团股份有限公司
+公司的中文简称|金域医学
+公司的外文名称|Guangzhou Kingmed Diagnostics Group Co., Ltd.
+公司的外文名称缩写|Kingmed Diagnostics
+公司的法定代表人|梁耀铭
+page|12
+公司注册地址|广州市国际生物岛螺旋三路10号
+公司注册地址的历史变更情况|510000
+公司办公地址|广州市国际生物岛螺旋三路10号
+公司办公地址的邮政编码|510000
+公司网址|www.kingmed.com.cn
+电子信箱|sid@kingmed.com.cn

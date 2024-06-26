@@ -1,0 +1,13 @@
+page|7
+公司的中文名称|上海天永智能装备股份有限公司
+公司的中文简称|天永智能
+公司的外文名称|Shanghai Tianyong Engineering Co., Ltd.
+公司的外文名称缩写|Tianyong
+公司的法定代表人|荣俊林
+page|7
+公司注册地址|上海市嘉定区外冈镇汇宝路555号3幢2层A区
+公司注册地址的邮政编码|201806
+公司办公地址|上海市嘉定区外冈镇汇贤路500号
+公司办公地址的邮政编码|201806
+公司网址|www.ty-industries.com
+电子信箱|lvaihua@ty-industries.com

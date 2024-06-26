@@ -1,0 +1,14 @@
+page|8
+公司办公地址的邮政编码|213333
+公司网址|www.tmhtour.com
+电子信箱|fj@tmhtour.com
+page|8
+公司的中文名称|江苏天目湖旅游股份有限公司
+公司的中文简称|天目湖
+公司的外文名称|Jiangsu Tianmu Lake Tourism Co.,Ltd
+公司的外文名称缩写|TIANMU LAKE TOURISM CO.,LTD
+公司的法定代表人|孟广才
+page|8
+公司注册地址|溧阳市天目湖旅游度假区环湖西路 1 号
+公司注册地址的邮政编码|213333
+公司办公地址|溧阳市天目湖旅游度假区环湖西路 1 号

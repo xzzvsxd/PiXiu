@@ -1,0 +1,13 @@
+page|6
+公司的中文名称|中昌大数据股份有限公司
+公司的中文简称|中昌数据
+公司的外文名称|ZHONGCHANG BIG DATA CORPORATION LIMITED
+公司的外文名称缩写|ZHONGCHANG DATA
+公司的法定代表人|厉群南
+page|6
+公司注册地址|广东省阳江市江城区安宁路富华小区A7（7-8层）
+公司注册地址的邮政编码|529500
+公司办公地址|上海市黄浦区外马路978号11楼
+公司办公地址的邮政编码|200011
+公司网址|www.zhongchangdata.com
+电子信箱|investor@zhongchangdata.com

@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|南京佳力图机房环境技术股份有限公司
+公司的中文简称|佳力图
+公司的外文名称|Nanjing Canatal Data-Centre Environmental Tech Co., Ltd
+公司的外文名称缩写 Canatal|
+公司的法定代表人|何根林
+page|5
+公司注册地址|南京市江宁经济技术开发区苏源大道88号
+公司注册地址的历史变更情况|不适用
+公司办公地址|南京市江宁经济技术开发区苏源大道88号
+公司办公地址的邮政编码|211111
+公司网址|http://www.canatal.com.cn
+电子信箱|gaojian@canatal.com.cn

@@ -1,0 +1,13 @@
+page|4
+公司的中文名称|浙江诚意药业股份有限公司
+公司的中文简称|诚意药业
+公司的外文名称|ZHEJIANG CHENG YI PHARMACEUTICAL CO.,LTD.
+公司的外文名称缩写|CHENGYIPHARMA
+公司的法定代表人|颜贻意
+page|5
+公司注册地址|浙江省温州市洞头区化工路118号
+公司注册地址的邮政编码|325700
+公司办公地址|上海市闵行区申虹路988弄富力悦都20幢9号7层
+公司办公地址的邮政编码|201100
+公司网址|www.chengyipharma.com
+电子信箱|office@chengyipharma.com

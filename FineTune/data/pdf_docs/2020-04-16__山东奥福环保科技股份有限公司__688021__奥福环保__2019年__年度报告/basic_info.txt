@@ -1,0 +1,12 @@
+page|8
+公司的中文名称|山东奥福环保科技股份有限公司
+公司的中文简称|奥福环保
+公司的外文名称|Aofu Environmental Technology Co., Ltd.
+公司的外文名称缩写|Aofu Environmental Tech
+公司的法定代表人|潘吉庆
+公司注册地址|德州市临邑县经济开发区富民路南首东侧
+公司注册地址的邮政编码|251500
+公司办公地址|德州市临邑县花园大街东段路北
+公司办公地址的邮政编码|251500
+公司网址|www.sdaofu.com
+电子信箱|shandongaofu@aofuchina.com

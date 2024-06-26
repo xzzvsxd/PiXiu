@@ -1,0 +1,14 @@
+page|4
+公司的中文名称|上海翔港包装科技股份有限公司
+公司的中文简称|翔港科技
+公司的外文名称|Shanghai Sunglow Packaging Technology Co.,Ltd
+公司的外文名称缩写|Sunglow Packaging Technology
+公司的法定代表人|董建军
+|
+page|5
+公司注册地址|上海市浦东新区泥城镇翠波路299号
+公司注册地址的邮政编码|201306
+公司办公地址|上海市浦东新区泥城镇翠波路299号
+公司办公地址的邮政编码|201306
+公司网址|http:// www.sunglow-tec.com
+电子信箱|xg@sunglow-tec.com

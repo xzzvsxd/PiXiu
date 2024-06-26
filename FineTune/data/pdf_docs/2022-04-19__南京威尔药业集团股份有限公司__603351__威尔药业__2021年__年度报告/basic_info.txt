@@ -1,0 +1,13 @@
+page|4
+公司的中文名称|南京威尔药业集团股份有限公司
+公司的中文简称|威尔药业
+公司的外文名称|Nanjing Well Pharmaceutical Group Co.,Ltd.
+公司的外文名称缩写|Well Pharmaceutical
+公司的法定代表人|吴仁荣
+page|5
+公司注册地址|南京化学工业园区长丰河西路99号
+公司注册地址的历史变更情况|210047
+公司办公地址|南京市玄武区苏宁大道64号徐庄软件园研发五区5号楼
+公司办公地址的邮政编码|210042
+公司网址|http://www.well-js.com
+电子信箱|wellyy@well-js.com

@@ -1,0 +1,12 @@
+page|6
+公司的中文名称|中国中煤能源股份有限公司
+公司的中文简称|中煤能源股份
+公司的外文名称|ChinaCoalEnergyCompanyLimited
+公司的外文名称缩写|ChinaCoalEnergy
+公司的法定代表人|王树东
+page|6
+公司注册地址|中华人民共和国北京市朝阳区黄寺大街1号
+公司办公地址|中华人民共和国北京市朝阳区黄寺大街1号
+公司办公地址的邮政编码|100120
+公司网址|http://www.chinacoalenergy.com
+电子信箱|IRD@chinacoal.com

@@ -1,0 +1,16 @@
+page|4
+公司的中文名称|上海汇得科技股份有限公司
+公司的中文简称|汇得科技
+公司的外文名称|Shanghai Huide Science & Technology Co.,Ltd
+公司的外文名称缩写|SHHDKJ
+公司的法定代表人|钱建中
+page|5
+传真|021-37285396|021-37285396
+电子信箱|hdkj@shhdsz.com|hdkj@shhdsz.com
+page|5
+公司注册地址|上海市金山区金山卫镇春华路180号
+公司注册地址的邮政编码|201512
+公司办公地址|上海市金山区金山卫镇春华路180号
+公司办公地址的邮政编码|201512
+公司网址|http://www.shhdsz.com
+电子信箱|hdkj@shhdsz.com

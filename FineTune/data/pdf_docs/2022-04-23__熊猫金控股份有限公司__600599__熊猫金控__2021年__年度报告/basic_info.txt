@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|熊猫金控股份有限公司
+公司的中文简称|熊猫金控
+公司的外文名称|PANDA FINANCIAL HOLDING CORP., LTD.
+公司的外文名称缩写|PANDA FINANCIAL
+公司的法定代表人|李民
+page|5
+公司注册地址|湖南省浏阳市金沙北路589号
+公司办公地址|湖南省浏阳市浏阳大道125号
+公司办公地址的邮政编码|410300
+公司网址|http://www.600599.com.cn
+page|6
+电子信箱|600599@pandafireworks.com

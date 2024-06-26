@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|苏州道森钻采设备股份有限公司
+公司的中文简称|道森股份
+公司的外文名称|Suzhou Douson Drilling & Production Equipment Co.,Ltd.
+公司的外文名称缩写|DOUSON
+公司的法定代表人|舒志高
+page|5
+公司注册地址|苏州市相城区太平镇
+公司注册地址的邮政编码|215137
+公司办公地址|苏州市相城区太平街道兴太路
+公司办公地址的邮政编码|215137
+公司网址|http://www.douson.cn
+电子信箱|info@douson.cn

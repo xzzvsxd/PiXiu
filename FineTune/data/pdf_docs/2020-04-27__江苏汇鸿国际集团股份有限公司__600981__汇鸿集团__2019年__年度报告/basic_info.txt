@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|江苏汇鸿国际集团股份有限公司
+公司的中文简称|汇鸿集团
+公司的外文名称|Jiangsu Highhope International Group Corporation
+公司的外文名称缩写|High Hope Group
+公司的法定代表人|张剑
+page|5
+公司注册地址|南京市白下路91号
+公司注册地址的邮政编码|210001
+公司办公地址|南京市白下路91号
+公司办公地址的邮政编码|210001
+公司网址|www.highhope.com
+电子信箱|ir@highhope.com

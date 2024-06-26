@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|福建凤竹纺织科技股份有限公司
+公司的中文简称|凤竹纺织
+公司的外文名称|Fujian Fynex Textile Science & Technology Co., Ltd
+公司的外文名称缩写|Fynex Textile
+公司的法定代表人|陈强
+page|5
+公司注册地址|福建省晋江市青阳凤竹工业区
+公司注册地址的邮政编码|362200
+公司办公地址|福建省晋江市青阳凤竹工业区
+公司办公地址的邮政编码|362200
+公司网址|www.fynex.com.cn
+电子信箱|tzzq@fynex.com.cn

@@ -1,0 +1,13 @@
+page|7
+公司的中文名称|江苏保千里视像科技集团股份有限公司
+公司的中文简称|*ST保千
+公司的外文名称|JIANGSU PROTRULY VISION TECHNOLOGY GROUP CO.,LTD.
+公司的外文名称缩写|PROTRULY
+公司的法定代表人|丁立红
+page|7
+公司注册地址|南京经济技术开发区兴智路兴智科技园B栋21层
+公司注册地址的邮政编码 210038|
+公司办公地址|广东省深圳市南山区登良路23号汉京国际大厦16层
+公司办公地址的邮政编码 518054|
+公司网址|http://www.protruly.com.cn/
+电子信箱|protruly@protruly.com.cn

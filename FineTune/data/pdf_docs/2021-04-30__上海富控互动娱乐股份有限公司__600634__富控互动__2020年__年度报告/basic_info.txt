@@ -1,0 +1,13 @@
+page|6
+公司的中文名称|上海富控互动娱乐股份有限公司
+公司的中文简称|富控互动
+公司的外文名称|SHANGHAI FUKONG INTERACTIVE ENTERTAINMENT CO.,LTD
+公司的外文名称缩写|FUKONG INTERACTIVE
+page|7
+公司的法定代表人|李欣
+page|7
+公司注册地址|上海市虹口区广粤路437号2幢215室
+公司注册地址的邮政编码|200434
+公司办公地址|上海市杨浦区国权路39号财富广场金座4层
+公司办公地址的邮政编码|200002
+电子信箱|zpz@zpzchina.com

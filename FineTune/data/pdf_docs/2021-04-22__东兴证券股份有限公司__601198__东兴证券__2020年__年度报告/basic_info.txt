@@ -1,0 +1,8 @@
+page|5
+公司的中文名称|东兴证券股份有限公司
+公司的中文简称|东兴证券
+page|6
+公司的外文名称|Dongxing Securities Corporation Limited
+公司的外文名称缩写|Dongxing Securities Co., Ltd.
+公司的法定代表人|魏庆华
+公司总经理|张涛

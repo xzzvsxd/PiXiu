@@ -1,0 +1,12 @@
+page|8
+公司的中文名称|上海宏力达信息技术股份有限公司
+公司的中文简称|宏力达
+公司的外文名称|Shanghai Holystar Information Technology Co., Ltd.
+公司的外文名称缩写|Holystar
+公司的法定代表人|章辉
+公司注册地址|上海市松江区九亭中心路1158号11幢101、401室
+公司注册地址的邮政编码|201615
+公司办公地址|上海市徐汇区古美路1528号A3幢8楼
+公司办公地址的邮政编码|200233
+公司网址|http：//www.holystar.com.cn/
+电子信箱|hld.mail@holystar.com.cn

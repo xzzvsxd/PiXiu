@@ -1,0 +1,12 @@
+page|7
+公司的中文名称|上海微创心脉医疗科技（集团）股份有限公司
+公司的中文简称|心脉医疗
+公司的外文名称|Shanghai MicroPort Endovascular MedTech（Gruop） Co., Ltd.
+公司的外文名称缩写|Endovastec
+公司的法定代表人|彭博
+公司注册地址|上海市浦东新区康新公路 3399 弄 1 号
+公司注册地址的邮政编码|201318
+公司办公地址|上海市浦东新区康新公路 3399 弄 1 号
+公司办公地址的邮政编码|201318
+公司网址|http://www.endovastec.com
+电子信箱|irm@endovastec.com

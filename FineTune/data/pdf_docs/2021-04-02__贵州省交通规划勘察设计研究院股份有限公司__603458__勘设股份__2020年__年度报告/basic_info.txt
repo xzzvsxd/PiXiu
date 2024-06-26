@@ -1,0 +1,12 @@
+page|5
+公司的中文名称|贵州省交通规划勘察设计研究院股份有限公司
+公司的中文简称|勘设股份
+公司的外文名称|GuizhouTransportationPlanningSurvey&DesignAcademeCo.,Ltd.
+公司的法定代表人|漆贵荣
+page|5
+公司注册地址|贵州省贵阳市高新技术产业开发区阳关大道附100号
+公司注册地址的邮政编码|550081
+公司办公地址|贵州省贵阳市高新技术产业开发区阳关大道附100号
+公司办公地址的邮政编码|550081
+公司网址|www.gzjtsjy.com
+电子信箱|huanggj@gzjtsjy.com

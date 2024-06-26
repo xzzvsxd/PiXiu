@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|内蒙古蒙电华能热电股份有限公司
+公司的中文简称|内蒙华电
+公司的外文名称|Inner  Mongolia  MengDian  HuaNeng  Thermal  Power Corporation Limited
+公司的外文名称缩写|NMHD
+公司的法定代表人|彭勇
+page|5
+公司注册地址|内蒙古呼和浩特市锡林南路218号
+公司注册地址的邮政编码|010020
+公司办公地址|内蒙古呼和浩特市锡林南路工艺厂巷电力科技楼
+公司办公地址的邮政编码|010020
+公司网址|www.nmhdwz.com
+电子信箱|nmhd@nmhdwz.com

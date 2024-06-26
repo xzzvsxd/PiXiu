@@ -1,0 +1,14 @@
+page|5
+公司的中文名称|金能科技股份有限公司
+公司的中文简称|金能科技
+公司的外文名称|JINNENG SCIENCE&TECHNOLOGY CO., LTD
+公司的外文名称缩写|JINNENG
+公司的法定代表人|秦庆平
+page|5
+公司注册地址|齐河县工业园区西路1号
+公司注册地址的邮政编码|251100
+公司办公地址|齐河县工业园区西路1号
+公司办公地址的邮政编码|251100
+page|6
+公司网址|http://www.jncoke.com
+电子信箱|jinnengkeji@jin-neng.com

@@ -1,0 +1,16 @@
+page|5
+公司的中文名称|西上海汽车服务股份有限公司
+公司的中文简称|西上海
+公司的外文名称|West Shanghai Automotive Service Co.,Ltd.
+公司的外文名称缩写|WSASC
+公司的法定代表人|朱燕阳
+page|6
+传真|021-62955580|021-62955580
+电子信箱|luxd@wsasc.com.cn|lijiabao@wsasc.com.cn
+page|6
+公司注册地址|上海市嘉定区恒裕路517号
+公司注册地址的邮政编码|201806
+公司办公地址|上海市嘉定区安亭镇墨玉南路1018号西上海大厦22层
+公司办公地址的邮政编码|201805
+公司网址|www.wsasc.com.cn
+电子信箱|luxd@wsasc.com.cn

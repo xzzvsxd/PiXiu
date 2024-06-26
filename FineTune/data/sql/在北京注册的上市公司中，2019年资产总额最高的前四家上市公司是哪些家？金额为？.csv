@@ -1,0 +1,1 @@
+{"id": "在北京注册的上市公司中，2019年资产总额最高的前四家上市公司是哪些家？金额为？", "question": "在北京注册的上市公司中，2019年资产总额最高的前四家上市公司是哪些家？金额为？", "sql": "SELECT 公司全称, 资产总计 FROM company_table WHERE 年份 = '2019' AND 注册地址 LIKE '%北京%'  AND 资产总计 IS NOT NULL ORDER BY 资产总计 DESC LIMIT 4"}

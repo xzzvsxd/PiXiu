@@ -1,0 +1,16 @@
+page|4
+公司的中文名称|西藏卫信康医药股份有限公司
+公司的中文简称|卫信康
+公司的外文名称|Tibet Weixinkang Medicine Co.,Ltd.
+公司的外文名称缩写|Tibet Weixinkang Medicine
+公司的法定代表人|张勇
+page|5
+传真|0891-6601760|0891-6601760
+电子信箱|wxk@wxkpharma.com|wxk@wxkpharma.com
+page|5
+公司注册地址|拉萨经济技术开发区B区园区南路5号工业中心4号楼3层
+公司注册地址的邮政编码|850000
+公司办公地址|拉萨经济技术开发区B区园区南路5号工业中心4号楼3层
+公司办公地址的邮政编码|850000
+公司网址|www.wxkpharma.com
+电子信箱|wxk@wxkpharma.com

@@ -1,0 +1,13 @@
+page|6
+公司的中文名称|苏州瀚川智能科技股份有限公司
+公司的中文简称|瀚川智能
+公司的外文名称|Suzhou Harmontronics Automation Technology Co., Ltd
+公司的外文名称缩写|Harmontronics Automation
+公司的法定代表人|蔡昌蔚
+公司注册地址|苏州工业园区胜浦佳胜路40号
+公司注册地址的邮政编码|215126
+page|7
+公司办公地址|苏州工业园区胜浦佳胜路40号
+公司办公地址的邮政编码|215126
+公司网址|http://www.harmontronics.com
+电子信箱|IRM@harmontronics.com

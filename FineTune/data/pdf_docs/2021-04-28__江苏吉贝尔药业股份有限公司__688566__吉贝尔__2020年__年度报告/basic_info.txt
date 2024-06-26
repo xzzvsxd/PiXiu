@@ -1,0 +1,12 @@
+page|7
+公司的中文名称|江苏吉贝尔药业股份有限公司
+公司的中文简称|吉贝尔
+公司的外文名称|Jiangsu Jibeier Pharmaceutical Co., Ltd.
+公司的外文名称缩写|Jibeier Pharmaceutical
+公司的法定代表人|耿仲毅
+公司注册地址|镇江市高新技术产业开发园区
+公司注册地址的邮政编码|212000
+公司办公地址|镇江市高新技术产业开发园区
+公司办公地址的邮政编码|212000
+公司网址|www.jibeier.com.cn
+电子信箱|zhaijianzhong@126.com

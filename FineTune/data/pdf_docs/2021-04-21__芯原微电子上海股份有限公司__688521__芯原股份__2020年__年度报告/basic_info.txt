@@ -1,0 +1,13 @@
+page|12
+公司的中文名称|芯原微电子（上海）股份有限公司
+公司的中文简称|芯原股份
+公司的外文名称|VeriSilicon Microelectronics (Shanghai) Co., Ltd.
+公司的外文名称缩写|VeriSilicon
+公司的法定代表人|Wayne Wei-Ming Dai（戴伟民）
+page|13
+公司注册地址|中国（上海）自由贸易试验区春晓路289号张江大厦20A
+公司注册地址的邮政编码|201203
+公司办公地址|中国（上海）自由贸易试验区春晓路289号张江大厦20A
+公司办公地址的邮政编码|201203
+公司网址|http://www.verisilicon.com/
+电子信箱|IR@verisilicon.com

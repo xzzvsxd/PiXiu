@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|中国旅游集团中免股份有限公司
+公司的中文简称|中国中免
+公司的外文名称|China Tourism Group Duty Free Corporation Limited
+公司的外文名称缩写|CTG DUTY-FREE
+公司的法定代表人|彭辉
+page|5
+公司注册地址|北京市东城区东直门外小街甲2号A座8层
+公司注册地址的邮政编码|100027
+公司办公地址|北京市东城区东直门外小街甲2号A座8层
+公司办公地址的邮政编码|100027
+公司网址|http://www.ctgdutyfree.com.cn/
+电子信箱|cdfir@ctg.cn

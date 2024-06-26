@@ -1,0 +1,12 @@
+page|5
+公司的中文名称|花王生态工程股份有限公司
+公司的中文简称|花王股份
+公司的外文名称|FlowerKingEco-EngineeringInc.
+公司的法定代表人|肖姣君
+page|5
+公司注册地址|丹阳市南二环路88号
+公司注册地址的邮政编码|212300
+公司办公地址|丹阳市南二环路88号
+公司办公地址的邮政编码|212300
+公司网址|http://www.flowersking.com
+电子信箱|securities@flowersking.com
