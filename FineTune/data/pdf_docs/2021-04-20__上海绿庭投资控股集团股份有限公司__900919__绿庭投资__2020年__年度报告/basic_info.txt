@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|上海绿庭投资控股集团股份有限公司
+公司的中文简称|绿庭投资
+公司的外文名称|Shanghai Greencourt Investment Group Co., Ltd.
+公司的外文名称缩写|GIG
+公司的法定代表人|龙炼
+page|5
+公司注册地址|上海市松江区新松江路1800弄3号5层东区
+公司注册地址的邮政编码|201699
+公司办公地址|上海市长宁区中山西路555-2号绿洲大厦附楼
+公司办公地址的邮政编码|200130
+公司网址|http://www.greencourtinvestment.com
+电子信箱|info@greencourtinvestment.com

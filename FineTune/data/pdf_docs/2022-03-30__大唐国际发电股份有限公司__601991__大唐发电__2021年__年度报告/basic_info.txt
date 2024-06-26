@@ -1,0 +1,14 @@
+page|4
+公司的中文名称|大唐国际发电股份有限公司
+公司的中文简称|大唐发电
+公司的外文名称|DatangInternationalPowerGenerationCo.,Ltd.
+公司的外文名称缩写|DatangPower
+公司的法定代表人|梁永磐
+page|4
+公司注册地址|北京市西城区广宁伯街9号
+公司注册地址的历史变更情况|2009年由北京市宣武区广内大街482号变更为现注册地址
+公司办公地址|北京市西城区广宁伯街9号
+公司办公地址的邮政编码|100033
+page|5
+公司网址|WWW.DTPOWER.COM
+电子信箱|DTPOWER@DTPOWER.COM

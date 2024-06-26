@@ -1,0 +1,15 @@
+page|4
+公司的中文名称|河北养元智汇饮品股份有限公司
+公司的中文简称|养元饮品
+公司的外文名称|HebeiYangyuan ZhiHui Beverage Co., Ltd.
+公司的外文名称缩写|YANGYUAN
+公司的法定代表人|姚奎章
+page|5
+电子信箱|yangyuanzhengquanbu@hbyangyuan.com|yangyuanzhengquanbu@hbyangyuan.com
+page|5
+公司注册地址|衡水市经济开发区北区新区六路南、滏阳四路以西
+公司注册地址的邮政编码|053000
+公司办公地址|衡水市经济开发区北区新区六路南、滏阳四路以西
+公司办公地址的邮政编码|053000
+公司网址|http://www.hbyangyuan.com/
+电子信箱|yangyuanzhengquanbu@hbyangyuan.com

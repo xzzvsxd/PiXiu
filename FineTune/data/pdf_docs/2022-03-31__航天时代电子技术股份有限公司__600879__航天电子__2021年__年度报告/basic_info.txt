@@ -1,0 +1,14 @@
+page|4
+公司的中文名称|航天时代电子技术股份有限公司
+公司的中文简称|航天电子
+page|5
+公司的外文名称|China Aerospace Times Electronics CO., LTD.
+公司的外文名称缩写|CATEC
+公司的法定代表人|任德民
+page|5
+公司注册地址|武汉经济技术开发区高科技园
+公司注册地址的历史变更情况|无
+公司办公地址|北京市海淀区丰滢东路1号
+公司办公地址的邮政编码|100094
+公司网址|http://www.catec-ltd.cn
+电子信箱|catec@catec-ltd.cn

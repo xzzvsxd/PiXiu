@@ -1,0 +1,13 @@
+page|6
+公司的中文名称|北京长久物流股份有限公司
+公司的中文简称|长久物流
+公司的外文名称|Beijing Changjiu Logistics Corp.
+公司的外文名称缩写|Changjiu Logistics
+公司的法定代表人|薄世久
+page|6
+公司注册地址|北京市顺义区南彩镇彩祥东路3号
+公司注册地址的邮政编码|101300
+公司办公地址|北京市朝阳区石各庄路99号长久物流
+公司办公地址的邮政编码|100024
+公司网址|www.changjiulogistics.com
+电子信箱|cjwl@changjiulogistics.com

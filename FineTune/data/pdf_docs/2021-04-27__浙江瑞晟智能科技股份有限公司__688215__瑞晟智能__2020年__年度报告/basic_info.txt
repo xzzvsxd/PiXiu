@@ -1,0 +1,12 @@
+page|5
+公司的中文名称|浙江瑞晟智能科技股份有限公司
+公司的中文简称|瑞晟智能
+公司的外文名称|ZHEJIANG RISUN INTELLIGENT TECHNOLOGY CO.,LTD
+公司的外文名称缩写|RSIT
+公司的法定代表人|袁峰
+公司注册地址|宁波高新区晶源路6号4-18室
+公司注册地址的邮政编码|315040
+公司办公地址|浙江省宁波市奉化区天峰路66号2号楼
+公司办公地址的邮政编码|315503
+公司网址|http://www.sunrise.com.cn
+电子信箱|lvmeng@sunrise.com.cn

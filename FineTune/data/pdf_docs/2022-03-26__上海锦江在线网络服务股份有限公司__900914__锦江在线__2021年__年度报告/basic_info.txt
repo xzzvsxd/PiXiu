@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|上海锦江在线网络服务股份有限公司
+公司的中文简称|锦江在线
+公司的外文名称|Shanghai Jin Jiang Online Network Service Co., Ltd.
+公司的外文名称缩写|Jin Jiang Online
+公司的法定代表人|许铭
+page|5
+公司注册地址|中国（上海）自由贸易试验区浦东大道1号
+公司注册地址的历史变更情况|公司原注册地址为上海市长乐路161号，于2000年变更为当前地址。
+公司办公地址|上海市延安东路100号21楼
+公司办公地址的邮政编码|200002
+公司网址|www.jinjiangonline.com
+电子信箱|shenyun@jinjiangonline.com

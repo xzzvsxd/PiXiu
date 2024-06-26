@@ -1,0 +1,12 @@
+page|8
+公司的中文名称|格科微有限公司
+公司的中文简称|格科微
+公司的外文名称|GalaxyCore Inc.
+公司的外文名称缩写|GCORE
+公司的法定代表人|赵立新
+公司注册地址|One Nexus Way,Camana Bay,Grand Cayman,KY1-9005 Cayman Islands
+公司注册地址的历史变更情况|报告期内，公司注册地址变更情况如下： 变更前：190 Elgin Avenue,George Town,Grand Cayman KY1-9005,Cayman Islands 变更后：One Nexus Way,Camana Bay,Grand Cayman KY1-9005,Cayman Islands
+公司办公地址|中国（上海）自由贸易试验区盛夏路560号2幢第11层整层、第12层整层
+公司办公地址的邮政编码|201210
+公司网址|www.gcoreinc.com
+电子信箱|ir@gcoreinc.com

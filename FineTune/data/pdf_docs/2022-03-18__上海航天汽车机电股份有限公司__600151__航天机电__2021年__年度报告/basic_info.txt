@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|上海航天汽车机电股份有限公司
+公司的中文简称|航天机电
+公司的外文名称|SHANGHAI AEROSPACEAUTOMOBILE    ELECTROMECHANICAL CO.,LTD.
+公司的外文名称缩写|HT-SAAE
+公司的法定代表人|荆怀靖
+page|5
+公司注册地址|中国（上海）自由贸易试验区浦东新区榕桥路661号
+公司注册地址的历史变更情况|无
+公司办公地址|上海市漕溪路222号航天大厦南楼
+公司办公地址的邮政编码|200235
+公司网址|http://www.ht-saae.com
+电子信箱|saae@ht-saae.com

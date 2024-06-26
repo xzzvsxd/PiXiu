@@ -1,0 +1,1 @@
+{"id": "注册地点在西安的公司中，2020年应交税费小于一百万的公司有几家？", "question": "注册地点在西安的公司中，2020年应交税费小于一百万的公司有几家？", "sql": " select count(1) from company_table where 年份 = '2020' and 注册地址 like '%西安%'  and 应交税费 is not null and 应交税费 < 1000000  "}

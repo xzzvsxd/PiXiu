@@ -1,0 +1,16 @@
+page|4
+公司的中文名称|华丽家族股份有限公司
+公司的中文简称|华丽家族
+公司的外文名称|Deluxe Family Co., Ltd.
+公司的外文名称缩写|Deluxe Family
+公司的法定代表人|王伟林
+page|5
+传真|021-62376089|021-62376089
+电子信箱|dmb@deluxe-family.com|dmb@deluxe-family.com
+page|5
+公司注册地址|上海市黄浦区瞿溪路968弄1号202室
+公司注册地址的邮政编码|200023
+公司办公地址|上海市长宁区红宝石路500号东银中心B栋15楼
+公司办公地址的邮政编码|201103
+公司网址|www.deluxe-family.com
+电子信箱|dmb@deluxe-family.com

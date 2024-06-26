@@ -1,0 +1,13 @@
+page|8
+本公司的中文名称|上海复星医药（集团）股份有限公司
+本公司的中文简称|复星医药
+本公司的外文名称|Shanghai Fosun Pharmaceutical（Group）Co., Ltd.
+本公司的外文名称缩写|FOSUNPHARMA
+本公司的法定代表人|吴以芳
+page|8
+本公司注册地址|上海市曹杨路510号9楼
+本公司注册地址的历史变更情况|不适用
+本公司办公地址|上海市宜山路1289号A楼
+本公司办公地址的邮政编码|200233
+本公司网址|http://www.fosunpharma.com
+电子信箱|ir@fosunpharma.com

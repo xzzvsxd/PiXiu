@@ -1,0 +1,13 @@
+page|4
+公司的中文名称|山东省药用玻璃股份有限公司
+公司的中文简称|山东药玻
+公司的外文名称|SHANDONG   PHARMACEUTICAL GLASS CO.， LTD
+公司的外文名称缩写|SPG
+公司的法定代表人|扈永刚
+page|4
+公司注册地址|山东省淄博市沂源县城
+公司注册地址的历史变更情况|256100
+公司办公地址|山东省淄博市沂源县城
+公司办公地址的邮政编码|256100
+公司网址|http://www.pharmglass.com
+电子信箱|sdyb@pharmglass.com

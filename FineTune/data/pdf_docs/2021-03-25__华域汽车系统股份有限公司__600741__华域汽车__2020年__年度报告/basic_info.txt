@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|华域汽车系统股份有限公司
+公司的中文简称|华域汽车
+公司的外文名称|HUAYU   Automotive Systems Company Limited
+公司的外文名称缩写|HASCO
+公司的法定代表人|陈虹
+page|5
+公司注册地址|中国上海市威海路489号
+公司注册地址的邮政编码|200041
+公司办公地址|中国上海市威海路489号
+公司办公地址的邮政编码|200041
+公司网址|www.hasco-group.com
+电子信箱|huayuqiche@hasco-group.com

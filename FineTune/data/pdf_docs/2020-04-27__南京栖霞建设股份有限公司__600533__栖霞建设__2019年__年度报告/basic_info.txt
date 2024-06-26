@@ -1,0 +1,13 @@
+page|4
+公司的中文名称|南京栖霞建设股份有限公司
+公司的中文简称|栖霞建设
+公司的外文名称|NANJING CHIXIA DEVELOPMENT CO.,LTD.
+公司的外文名称缩写|CHIXIA DEVELOPMENT
+公司的法定代表人|江劲松
+page|5
+公司注册地址|南京市栖霞区和燕路251号
+公司注册地址的邮政编码|210028
+公司办公地址|南京市栖霞区仙林大道99号
+公司办公地址的邮政编码|210046
+公司网址|www.chixia.com
+电子信箱|invest@chixia.com

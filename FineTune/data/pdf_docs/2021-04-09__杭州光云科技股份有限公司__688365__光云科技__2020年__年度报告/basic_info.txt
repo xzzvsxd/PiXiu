@@ -1,0 +1,15 @@
+page|7
+公司的中文名称|杭州光云科技股份有限公司
+公司的中文简称|光云科技
+公司的外文名称|Hangzhou Raycloud Technology Co.,Ltd
+公司的外文名称缩写|Raycloud
+公司的法定代表人|谭光华
+公司注册地址|杭州市滨江区江南大道588号恒鑫大厦主楼15层
+公司注册地址的邮政编码|310052
+公司办公地址|杭州市滨江区江南大道588号恒鑫大厦主楼11层
+公司办公地址的邮政编码|310052
+公司网址|www.raycloud.com
+电子信箱|gyir@raycloud.com
+page|8
+传真|0571-81025116|0571-81025116
+电子信箱|liuyu@raycloud.com|zhuanglingling@raycloud.com

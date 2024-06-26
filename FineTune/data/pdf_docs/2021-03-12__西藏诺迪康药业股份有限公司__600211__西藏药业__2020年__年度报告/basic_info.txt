@@ -1,0 +1,14 @@
+page|4
+公司的中文名称|西藏诺迪康药业股份有限公司
+公司的中文简称|西藏药业
+公司的外文名称|TIBET RHODIOLA PHARMACEUTICAL HOLDING CO.
+公司的外文名称缩写|TIBET PHARMA
+公司的法定代表人|陈达彬
+page|4
+公司注册地址|西藏拉萨市北京中路93号
+公司注册地址的邮政编码|850000
+公司办公地址|西藏拉萨市北京西路19号
+公司办公地址的邮政编码|850000
+page|5
+公司网址|www.xzyy.cn
+电子信箱|master@xzyy.cn

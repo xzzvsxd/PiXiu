@@ -1,0 +1,13 @@
+page|4
+公司的中文名称|北海国发海洋生物产业股份有限公司
+公司的中文简称|国发股份
+公司的外文名称|Beihai Gofar Marine Biological Industry Co., Ltd.
+公司的外文名称缩写|Gofar Stock
+公司的法定代表人|潘利斌
+page|5
+公司注册地址|广西北海市北部湾中路3号
+公司注册地址的邮政编码|536000
+公司办公地址|广西北海市北部湾中路3号
+公司办公地址的邮政编码|536000
+公司网址|http://www.gofar.com.cn
+电子信箱|securities@gofar.com.cn

@@ -1,0 +1,13 @@
+page|4
+公司的中文名称|青岛康普顿科技股份有限公司
+公司的中文简称|康普顿
+公司的外文名称|QINGDAO COPTON TECHNOLOGY COMPANY LIMITED
+公司的外文名称缩写|COPTON
+公司的法定代表人|朱振华
+page|4
+公司注册地址|山东省青岛市崂山区深圳路18号
+公司注册地址的邮政编码|266101
+公司办公地址|山东省青岛市崂山区深圳路18号
+公司办公地址的邮政编码|266101
+公司网址|www.copton.com.cn
+电子信箱|zhengquan@copton.com.cn

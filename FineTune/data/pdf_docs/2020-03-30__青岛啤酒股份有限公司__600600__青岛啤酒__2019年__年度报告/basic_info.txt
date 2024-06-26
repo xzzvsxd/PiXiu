@@ -1,0 +1,13 @@
+page|4
+公司的中文名称|青岛啤酒股份有限公司
+公司的中文简称|青岛啤酒
+公司的外文名称|Tsingtao Brewery Company Limited
+公司的外文名称缩写|Tsingtao Brewery
+公司的法定代表人|黄克兴
+page|5
+公司注册地址|青岛市市北区登州路56号
+公司注册地址的邮政编码|266023
+公司办公地址|青岛市市南区东海西路35号青啤大厦
+公司办公地址的邮政编码|266071
+公司网址|www.tsingtao.com.cn
+电子信箱|info@tsingtao.com.cn

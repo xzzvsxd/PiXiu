@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|山东天鹅棉业机械股份有限公司
+公司的中文简称|天鹅股份
+公司的外文名称|Shandong Swan CottonIndustrial Machinery Stock Co.,Ltd.
+公司的外文名称缩写|Swan Cotton Machinery
+公司的法定代表人|王新亭
+page|5
+公司注册地址|济南市天桥区大魏庄东路99号
+公司注册地址的邮政编码|250032
+公司办公地址|济南市天桥区大魏庄东路99号
+公司办公地址的邮政编码|250032
+公司网址|www.sdmj.com.cn
+电子信箱|swan@sdmj.com.cn

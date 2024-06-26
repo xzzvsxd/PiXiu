@@ -1,0 +1,14 @@
+page|8
+股票简称|ST 文化|股票代码|300089
+公司的中文名称|广东文化长城集团股份有限公司||
+公司的中文简称|文化长城||
+公司的外文名称（如有）|The Great Wall Of Culture Group Holding Co.，Ltd. Guangdong||
+公司的外文名称缩写（如有） GREAT WALL CULTURE|||
+公司的法定代表人|徐阳||
+注册地址|广东省潮州市枫溪区蔡陇大道||
+注册地址的邮政编码|521031||
+公司注册地址历史变更情况  无变化|||
+办公地址|广东省潮州市枫溪区蔡陇大道||
+办公地址的邮政编码|521031||
+公司国际互联网网址|www.thegreatwall-china.com||
+电子信箱|zqb@thegreatwall-china.com||

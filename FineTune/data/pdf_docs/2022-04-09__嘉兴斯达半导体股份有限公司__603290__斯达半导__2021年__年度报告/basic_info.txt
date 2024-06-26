@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|嘉兴斯达半导体股份有限公司
+公司的中文简称|斯达半导
+公司的外文名称|StarPower Semiconductor Ltd.
+公司的外文名称缩写|StarPower
+公司的法定代表人|沈华
+page|5
+公司注册地址|浙江省嘉兴市南湖区科兴路988号
+公司注册地址的历史变更情况|314006
+公司办公地址|浙江省嘉兴市南湖区科兴路988号
+公司办公地址的邮政编码|314006
+公司网址|www.powersemi.com
+电子信箱|investor-relation@powersemi.com

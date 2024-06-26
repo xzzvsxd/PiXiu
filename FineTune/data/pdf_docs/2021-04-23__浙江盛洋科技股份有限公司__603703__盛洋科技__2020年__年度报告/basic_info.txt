@@ -1,0 +1,13 @@
+page|4
+公司的中文名称|浙江盛洋科技股份有限公司
+公司的中文简称|盛洋科技
+公司的外文名称|Zhejiang Shengyang Science and Technology Co.,Ltd.
+公司的外文名称缩写|SY Science&Technology
+公司的法定代表人|叶利明
+page|5
+公司注册地址|浙江省绍兴市越城区人民东路1416-1417号
+公司注册地址的邮政编码|312000
+公司办公地址|浙江省绍兴市越城区人民东路1416号
+公司办公地址的邮政编码|312000
+公司网址|http://www.shengyang.com/
+电子信箱|stock@shengyang.com

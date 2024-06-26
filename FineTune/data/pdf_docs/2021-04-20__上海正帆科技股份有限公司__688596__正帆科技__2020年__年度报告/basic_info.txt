@@ -1,0 +1,12 @@
+page|7
+公司的中文名称|上海正帆科技股份有限公司
+公司的中文简称|正帆科技
+公司的外文名称|Shanghai Gentech Co., Ltd.
+公司的外文名称缩写|GenTech
+公司的法定代表人|YU DONG LEI
+公司注册地址|上海市闵行区春永路55号2幢
+公司注册地址的邮政编码|201108
+公司办公地址|上海市闵行区春永路55号
+公司办公地址的邮政编码|201108
+公司网址|www.gentechindustries.com
+电子信箱|ir@gentech-online.com

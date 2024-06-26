@@ -1,0 +1,12 @@
+page|6
+公司的中文名称|北京映翰通网络技术股份有限公司
+公司的中文简称|映翰通
+公司的外文名称|Beijing InHand Networks Technology Co., Ltd.
+公司的外文名称缩写|InHand Networks
+公司的法定代表人|李明
+公司注册地址|北京市朝阳区紫月路18号院3号楼5层501室
+公司注册地址的邮政编码|100102
+公司办公地址|北京市朝阳区紫月路18号院3号楼5层501室
+公司办公地址的邮政编码|100102
+公司网址|https://www.inhand.com.cn/
+电子信箱|inhand@inhand.com.cn

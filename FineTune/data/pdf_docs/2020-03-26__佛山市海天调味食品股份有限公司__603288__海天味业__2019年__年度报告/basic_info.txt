@@ -1,0 +1,13 @@
+page|4
+公司的中文名称|佛山市海天调味食品股份有限公司
+公司的中文简称|海天味业
+公司的外文名称|Foshan   Haitian Flavouring and Food Company Ltd.
+公司的外文名称缩写|HAI   TIAN
+公司的法定代表人|庞康
+page|5
+公司注册地址|广东省佛山市文沙路16号
+公司注册地址的邮政编码|528000
+公司办公地址|广东省佛山市文沙路16号
+公司办公地址的邮政编码|528000
+公司网址|http://www.haitian-food.com
+电子信箱|OBD@haday.cn

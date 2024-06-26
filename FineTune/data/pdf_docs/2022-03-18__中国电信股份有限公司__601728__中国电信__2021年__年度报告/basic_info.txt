@@ -1,0 +1,13 @@
+page|7
+公司的中文名称|中国电信股份有限公司
+公司的中文简称|中国电信
+公司的外文名称|China Telecom Corporation Limited
+公司的外文名称缩写|CHINA TELECOM
+公司的法定代表人|柯瑞文
+page|7
+公司注册地址|北京市西城区金融大街31号
+公司注册地址的历史变更情况|不适用
+公司办公地址|北京市西城区金融大街31号
+公司办公地址的邮政编码|100033
+公司网址|www.chinatelecom-h.com
+电子信箱|ir@chinatelecom-h.com

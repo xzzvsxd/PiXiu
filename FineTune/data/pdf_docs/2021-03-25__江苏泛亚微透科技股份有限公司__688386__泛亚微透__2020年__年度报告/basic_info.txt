@@ -1,0 +1,12 @@
+page|5
+公司的中文名称|江苏泛亚微透科技股份有限公司
+公司的中文简称|泛亚微透
+公司的外文名称|Pan Asian Microvent Tech (Jiangsu) Corporation
+公司的外文名称缩写|Pan Asian Microvent
+公司的法定代表人|张云
+公司注册地址|江苏省常州市武进区礼嘉镇前漕路8号
+公司注册地址的邮政编码|213176
+公司办公地址|江苏省常州市武进区礼嘉镇前漕路8号
+公司办公地址的邮政编码|213176
+公司网址|www.microvent.com.cn
+电子信箱|zhengquan@microvent.com.cn

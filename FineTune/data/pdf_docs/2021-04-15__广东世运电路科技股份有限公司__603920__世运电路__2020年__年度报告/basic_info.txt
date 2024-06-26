@@ -1,0 +1,19 @@
+page|4
+公司的中文名称|广东世运电路科技股份有限公司
+公司的中文简称|世运电路
+公司的外文名称|OLYMPIC CIRCUIT TECHNOLOGY CO.,LTD
+公司的外文名称缩写|OLYMPIC
+公司的法定代表人|佘英杰
+page|5
+姓名|尹嘉亮|刘晟
+联系地址|广东省鹤山市共和镇世运路8号|广东省鹤山市共和镇世运路8号
+电话|0750-8911768|0750-8911371
+传真|0750-8919888|0750-8919888
+电子信箱|yinjialiang@olympicpcb.com|jason.liu@olympicpcb.com
+page|5
+公司注册地址|鹤山市共和镇世运路8号
+公司注册地址的邮政编码|529728
+公司办公地址|鹤山市共和镇世运路8号
+公司办公地址的邮政编码|529728
+公司网址|http://www.olympicpcb.cn
+电子信箱|olympic@olympicpcb.com

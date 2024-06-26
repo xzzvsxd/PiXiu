@@ -1,0 +1,14 @@
+page|4
+公司的中文名称|江苏红豆实业股份有限公司
+公司的中文简称|红豆股份
+公司的外文名称|Jiangsu Hongdou Industrial Co.,LTD
+公司的外文名称缩写|Hongdou Industrial
+公司的法定代表人|叶薇
+page|4
+公司注册地址|江苏省无锡市锡山区东港镇
+公司注册地址的邮政编码|214199
+公司办公地址|江苏省无锡市锡山区东港镇
+公司办公地址的邮政编码|214199
+page|5
+公司网址|www.hongdou.com.cn
+电子信箱|hongdou@hongdou.com

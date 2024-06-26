@@ -1,0 +1,1 @@
+{"id": "在深圳注册的上市公司中，2021年总负债最高的十家公司分别是，总负债金额分别是？", "question": "在深圳注册的上市公司中，2021年总负债最高的十家公司分别是，总负债金额分别是？", "sql": "SELECT 公司全称, 负债合计 FROM company_table WHERE 年份 = '2021' AND 注册地址 LIKE '%深圳%'  AND 负债合计 IS NOT NULL ORDER BY 负债合计 DESC LIMIT 10"}

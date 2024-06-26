@@ -1,0 +1,13 @@
+page|6
+公司的中文名称|广西梧州中恒集团股份有限公司
+公司的中文简称|中恒集团
+公司的外文名称|GUANGXI WUZHOU ZHONGHENG GROUP CO.,LTD
+公司的外文名称缩写|ZHONGHENG GROUP
+公司的法定代表人|焦明
+page|6
+公司注册地址|广西梧州工业园区工业大道1号第1幢
+公司注册地址的邮政编码|543000
+公司办公地址|广西梧州工业园区工业大道1号
+公司办公地址的邮政编码|543000
+公司网址|www.wz-zhongheng.com
+电子信箱|zhongheng@wz-zhongheng.com

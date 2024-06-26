@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|中盐内蒙古化工股份有限公司
+公司的中文简称|中盐化工
+公司的外文名称|CNSIG Inner Mongolia Chemical Industry Co.,   Ltd.
+公司的外文名称缩写|China Salt Chemical
+公司的法定代表人|李德禄
+page|5
+公司注册地址|内蒙古自治区阿拉善盟阿拉善经济开发区（乌斯太镇）贺兰区
+公司注册地址的邮政编码|750336
+公司办公地址|内蒙古阿拉善左旗乌斯太镇阿拉善经济开发区
+公司办公地址的邮政编码|750336
+公司网址|http://www.chinasaltchemical.com/
+电子信箱|ltzqb@lantaicn.com

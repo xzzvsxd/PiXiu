@@ -1,0 +1,13 @@
+page|6
+公司的中文名称|上海宝钢包装股份有限公司
+公司的中文简称|宝钢包装
+公司的外文名称|Shanghai Baosteel Packaging Co.,Ltd.
+公司的外文名称缩写|BAOSTEELPACKAGE
+公司的法定代表人|曹清
+page|6
+公司注册地址|上海市宝山区罗东路1818号
+公司注册地址的邮政编码|200949
+公司办公地址|上海市宝山区罗东路1818号
+公司办公地址的邮政编码|200949
+公司网址|www.baosteelpackaging.com
+电子信箱|ir601968@baosteel.com

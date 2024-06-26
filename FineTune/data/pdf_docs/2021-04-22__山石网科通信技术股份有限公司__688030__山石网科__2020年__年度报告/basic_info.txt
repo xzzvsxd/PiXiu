@@ -1,0 +1,12 @@
+page|9
+公司的中文名称|山石网科通信技术股份有限公司
+公司的中文简称|山石网科
+公司的外文名称|Hillstone Networks Co.,Ltd.
+公司的外文名称缩写|Hillstone Networks
+公司的法定代表人|罗东平
+公司注册地址|苏州高新区景润路181号
+公司注册地址的邮政编码|215153
+公司办公地址|苏州高新区景润路181号
+公司办公地址的邮政编码|215153
+公司网址|https://www.hillstonenet.com.cn
+电子信箱|ir@hillstonenet.com

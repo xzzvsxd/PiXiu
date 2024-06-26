@@ -1,0 +1,12 @@
+page|6
+公司的中文名称|上海昊海生物科技股份有限公司
+公司的中文简称|昊海生科
+公司的外文名称|Shanghai Haohai Biological Technology Co. Ltd.
+公司的外文名称缩写|HAOHAI BIOTEC
+公司的法定代表人|侯永泰
+公司注册地址|上海市松江工业区洞泾路5号
+公司注册地址的邮政编码|201613
+公司办公地址|上海市长宁区虹桥路1386号文广大厦23楼
+公司办公地址的邮政编码|200336
+公司网址|www.3healthcare.com
+电子信箱|info@3healthcare.com

@@ -1,0 +1,13 @@
+page|4
+公司的中文名称|宁波合力模具科技股份有限公司
+公司的中文简称|合力科技
+公司的外文名称|Ningbo Heli Mould Technology Co., Ltd.
+公司的外文名称缩写|Heli Technology
+公司的法定代表人|施良才
+page|4
+公司注册地址|浙江象山工业园区西谷路358号
+公司注册地址的邮政编码|315700
+公司办公地址|浙江象山工业园区西谷路358号
+公司办公地址的邮政编码|315700
+公司网址|http://www.helimould.com
+电子信箱|stock@helimould.com

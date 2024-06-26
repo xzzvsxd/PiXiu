@@ -1,0 +1,14 @@
+page|5
+公司的中文名称|浙江长城电工科技股份有限公司
+公司的中文简称|长城科技
+公司的外文名称|Zhejiang grandwall electric science&technologyCo.,Ltd.
+公司的外文名称缩写|Grandwall
+公司的法定代表人|顾正韡
+page|5
+公司注册地址|浙江省湖州练市长城大道东1号
+page|6
+公司注册地址的邮政编码|313013
+公司办公地址|浙江省湖州练市长城大道东1号
+公司办公地址的邮政编码|313013
+公司网址|www.grandwall.com.cn
+电子信箱|grandwall@yeah.net

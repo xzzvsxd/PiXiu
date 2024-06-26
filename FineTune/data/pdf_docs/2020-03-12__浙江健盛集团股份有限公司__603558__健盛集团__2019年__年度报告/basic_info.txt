@@ -1,0 +1,14 @@
+page|6
+公司的中文名称|浙江健盛集团股份有限公司
+公司的中文简称|健盛集团
+公司的外文名称|Zhejiang Jasan Holding Group Co., Ltd.
+公司的外文名称缩写|Jasan Group
+公司的法定代表人|张茂义
+page|6
+公司注册地址|杭州市萧山经济开发区金一路111号
+公司注册地址的邮政编码|311215
+公司办公地址|杭州市萧山经济开发区金一路111号
+page|7
+公司办公地址的邮政编码|311215
+公司网址|www.jasangroup.com
+电子信箱|jasan@jasangroup.com.cn

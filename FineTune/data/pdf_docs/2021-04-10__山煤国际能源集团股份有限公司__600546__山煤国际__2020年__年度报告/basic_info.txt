@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|山煤国际能源集团股份有限公司
+公司的中文简称|山煤国际
+公司的外文名称|Shanxi Coal International Energy Group Co.,LTD
+公司的外文名称缩写|SCIE
+公司的法定代表人|王为民
+page|5
+公司注册地址|太原市小店区长风街115号
+公司注册地址的邮政编码|030006
+公司办公地址|山西省太原市长风街115号
+公司办公地址的邮政编码|030006
+公司网址|http://www.smgjny.com
+电子信箱|smgj@shanxicoal.cn

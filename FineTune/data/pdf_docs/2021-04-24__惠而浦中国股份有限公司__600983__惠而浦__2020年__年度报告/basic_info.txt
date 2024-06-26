@@ -1,0 +1,12 @@
+page|5
+公司的中文名称|惠而浦（中国）股份有限公司
+公司的中文简称|惠而浦
+公司的外文名称|Whirlpool (China) Co., Ltd.
+公司的法定代表人|艾小明
+page|5
+公司注册地址|合肥高新技术产业开发区习友路4477号
+公司注册地址的邮政编码|231283
+公司办公地址|合肥高新技术产业开发区习友路4477号
+公司办公地址的邮政编码|231283
+公司网址|http://www.whirlpool.com.cn
+电子信箱|bin_fang@whirlpool-china.com,    yaping_sun@whirlpool-china.com

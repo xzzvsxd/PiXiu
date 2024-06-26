@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|杭州华光焊接新材料股份有限公司
+公司的中文简称|华光新材
+公司的外文名称|Hangzhou Huaguang Advanced Welding Materials Co., Ltd.
+公司的外文名称缩写|Huaguang Welding
+公司的法定代表人|金李梅
+公司注册地址|浙江省杭州市余杭区仁和街道启航路82号3幢等
+page|6
+公司注册地址的邮政编码|311107
+公司办公地址|浙江省杭州市余杭区仁和街道启航路82号3幢等/浙江省杭州市余杭区勾庄工业园小洋坝路
+公司办公地址的邮政编码|311107/311112
+公司网址|http://www.cn-huaguang.com/
+电子信箱|bdo@cn-huaguang.com

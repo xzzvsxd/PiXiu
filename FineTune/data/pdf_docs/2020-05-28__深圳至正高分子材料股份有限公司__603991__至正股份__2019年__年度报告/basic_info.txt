@@ -1,0 +1,15 @@
+page|5
+公司的中文名称|上海至正道化高分子材料股份有限公司
+公司的中文简称|至正股份
+公司的外文名称|Shanghai Original Advanced Compounds Co., Ltd
+公司的外文名称缩写|Original
+公司的法定代表人|侯海良
+page|6
+电子信箱|zzdh@sh-original.com|zzdh@sh-original.com
+page|6
+公司注册地址|上海市闵行区莘庄工业区元江路5050号
+公司注册地址的邮政编码|201108
+公司办公地址|上海市闵行区莘庄工业区北横沙河路268号
+公司办公地址的邮政编码|201108
+公司网址|http://www.sh-original.com
+电子信箱|zzdh@sh-original.com

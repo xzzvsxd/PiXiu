@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|中远海运能源运输股份有限公司
+公司的中文简称|中远海能
+公司的外文名称|COSCO SHIPPING Energy Transportation Co., Ltd.
+公司的外文名称缩写|COSCO SHIPPING Energy
+公司的法定代表人|刘汉波
+page|5
+公司注册地址|中国（上海）自由贸易试验区业盛路 188 号 A-1015 室
+公司注册地址的邮政编码|201306
+公司办公地址|中国上海市虹口区东大名路 670 号
+公司办公地址的邮政编码|200080
+公司网址|http://energy.coscoshipping.com
+电子信箱|ir.energy@coscoshipping.com

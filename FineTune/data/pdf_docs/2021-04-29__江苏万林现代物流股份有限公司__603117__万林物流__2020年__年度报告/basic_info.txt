@@ -1,0 +1,13 @@
+page|4
+公司的中文名称|江苏万林现代物流股份有限公司
+公司的中文简称|万林物流
+公司的外文名称|JIANGSU WANLIN MODERN LOGISTICS Co., Ltd.
+公司的外文名称缩写|WANLIN LOGISTICS
+公司的法定代表人|樊继波
+page|5
+公司注册地址|江苏省靖江经济开发区新港园区六助港路5号
+公司注册地址的邮政编码|214513
+公司办公地址|江苏省靖江市斜桥镇阜康路66号
+公司办公地址的邮政编码|214500
+公司网址|www.china-wanlin.com
+电子信箱|info@china-wanlin.com

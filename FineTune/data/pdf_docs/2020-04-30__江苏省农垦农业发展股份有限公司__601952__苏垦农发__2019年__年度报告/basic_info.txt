@@ -1,0 +1,14 @@
+page|5
+公司的中文名称|江苏省农垦农业发展股份有限公司
+公司的中文简称|苏垦农发
+公司的外文名称|Jiangsu Provincial Agricultural Reclamation and      Development Co.,Ltd.
+page|6
+公司的外文名称缩写|SuKen Agriculture
+公司的法定代表人|胡兆辉
+page|6
+公司注册地址|江苏省南京市建邺区恒山路136号苏垦大厦12楼
+公司注册地址的邮政编码|210019
+公司办公地址|江苏省南京市建邺区恒山路136号苏垦大厦11-12楼
+公司办公地址的邮政编码|210019
+公司网址|http://www.skiad.com.cn
+电子信箱|skiad_ltd@163.com

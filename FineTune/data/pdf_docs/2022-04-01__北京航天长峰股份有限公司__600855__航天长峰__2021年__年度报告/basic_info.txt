@@ -1,0 +1,15 @@
+page|5
+公司的中文名称|北京航天长峰股份有限公司
+公司的中文简称|航天长峰
+公司的外文名称|BEIJING AEROSPACE CHANGFENG CO.,LTD
+公司的外文名称缩写|ASCF
+公司的法定代表人|肖海潮
+page|6
+电子信箱|liulei@casic.com.cn|tongwei@casic.com.cn
+page|6
+公司注册地址|北京市海淀区永定路51号航天数控大楼
+公司注册地址的历史变更情况|无
+公司办公地址|北京市海淀区永定路51号航天数控大楼
+公司办公地址的邮政编码|100854
+公司网址|http://www.ascf.com.cn
+电子信箱|db@casic.com.cn

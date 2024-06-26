@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|甘肃国芳工贸（集团）股份有限公司
+公司的中文简称|国芳集团
+公司的外文名称|Gansu Guofang Industry & Trade Group Limited by Share Ltd.
+公司的外文名称缩写|GGITG
+公司的法定代表人|张国芳
+page|5
+公司注册地址|甘肃省兰州市城关区广场南路4-6号
+公司注册地址的邮政编码|730000
+公司办公地址|甘肃省兰州市城关区广场南路4-6号
+公司办公地址的邮政编码|730000
+公司网址|www.guofanggroup.com
+电子信箱|gfzhengquan@guofanggroup.com

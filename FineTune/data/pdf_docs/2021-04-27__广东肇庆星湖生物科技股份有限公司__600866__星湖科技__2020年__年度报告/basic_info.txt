@@ -1,0 +1,13 @@
+page|4
+公司的中文名称|广东肇庆星湖生物科技股份有限公司
+公司的中文简称|星湖科技
+公司的外文名称|STAR LAKE BIOSCIENCE CO., INC.ZHAOQING GUANGDONG
+公司的外文名称缩写|STAR LAKE SCIENCE
+公司的法定代表人|陈武
+page|4
+公司注册地址|广东省肇庆市工农北路67号
+公司注册地址的邮政编码|526040
+公司办公地址|广东省肇庆市工农北路67号
+公司办公地址的邮政编码|526040
+公司网址|www.starlake.com.cn
+电子信箱|sl@starlake.com.cn

@@ -1,0 +1,14 @@
+page|5
+公司的中文名称|上海亚虹模具股份有限公司
+公司的中文简称|上海亚虹
+公司的外文名称|SHANGHAIYAHONGMOULDINGCO.,LTD
+公司的外文名称缩写|SHANGHAIYAHONGMOULDING
+公司的法定代表人|孙林
+page|5
+公司注册地址|上海市奉贤区沪杭公路732号
+公司注册地址的历史变更情况|201401
+page|6
+公司办公地址|上海市奉贤区航南公路7588号
+公司办公地址的邮政编码|201415
+公司网址|http://www.yahong-mould.com
+电子信箱|yahong@xxyhmj.com.cn

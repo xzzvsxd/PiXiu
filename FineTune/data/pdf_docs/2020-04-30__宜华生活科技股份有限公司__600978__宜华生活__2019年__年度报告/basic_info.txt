@@ -1,0 +1,13 @@
+page|4
+公司的中文名称|宜华生活科技股份有限公司
+公司的中文简称|宜华生活
+公司的外文名称|Yihua Lifestyle Technology Co.,Ltd.
+公司的外文名称缩写|Yihua Life
+公司的法定代表人|刘壮超
+page|4
+公司注册地址|广东省汕头市澄海区莲下镇槐东工业区
+公司注册地址的邮政编码|515834
+公司办公地址|广东省汕头市澄海区莲下镇槐东工业区
+公司办公地址的邮政编码|515834
+公司网址|http://www.yihualife.com
+电子信箱|securities.yt@yihua.com

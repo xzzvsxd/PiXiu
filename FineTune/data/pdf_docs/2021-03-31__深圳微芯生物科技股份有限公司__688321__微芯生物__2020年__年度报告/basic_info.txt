@@ -1,0 +1,13 @@
+page|6
+公司的中文名称|深圳微芯生物科技股份有限公司
+公司的中文简称|微芯生物
+公司的外文名称|Shenzhen Chipscreen Biosciences Co., Ltd
+page|7
+公司的外文名称缩写|Chipscreen
+公司的法定代表人|XIANPING LU
+公司注册地址|深圳市南山区高新中一道十号深圳生物孵化基地2号楼601-606室
+公司注册地址的邮政编码|518057
+公司办公地址|深圳市南山区高新中一道十号深圳生物孵化基地2号楼601-606室
+公司办公地址的邮政编码|518057
+公司网址|https://www.chipscreen.com/
+电子信箱|ir@chipscreen.com

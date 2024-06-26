@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|上海界龙实业集团股份有限公司
+公司的中文简称|界龙实业
+公司的外文名称|SHANGHAI JIELONG INDUSTRY GROUP   CORPORATION LIMITED
+公司的外文名称缩写|J.L.C
+公司的法定代表人|沈伟荣
+page|5
+公司注册地址|上海市浦东新区川周路7111号
+公司注册地址的邮政编码|201205
+公司办公地址|上海市浦东新区杨高中路2112号（界龙总部园5楼）
+公司办公地址的邮政编码|200135
+公司网址|http://www.jielongcorp.com
+电子信箱|ad@jielongcorp.com

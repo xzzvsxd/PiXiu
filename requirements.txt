@@ -1,0 +1,18 @@
+# pip install g4f[all]
+xtuner[deepspeed]
+tiktoken
+einops
+transformers_stream_generator
+optimum
+
+python-docx
+fpdf
+dashscope
+
+flask
+flask_babel
+requests
+aiohttp
+pycryptodome
+
+# git clone https://github.com/JustinLin610/AutoGPTQ.git & cd AutoGPTQ & pip install -v .

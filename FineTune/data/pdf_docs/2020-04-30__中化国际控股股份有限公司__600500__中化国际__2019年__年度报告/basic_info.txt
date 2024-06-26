@@ -1,0 +1,13 @@
+page|4
+公司的中文名称|中化国际（控股）股份有限公司
+公司的中文简称|中化国际
+公司的外文名称|SINOCHEM INTERNATIONAL CORPORATION
+公司的外文名称缩写|SINOCHEM INTERNATIONAL
+公司的法定代表人|刘红生
+page|5
+公司注册地址|中国（上海）自由贸易试验区长清北路233号12层
+公司注册地址的邮政编码|200125
+公司办公地址|中国（上海）自由贸易试验区长清北路233号
+公司办公地址的邮政编码|200125
+公司网址|http://www.sinochemintl.com
+电子信箱|600500@sinochem.com

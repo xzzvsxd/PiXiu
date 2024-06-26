@@ -1,0 +1,14 @@
+page|4
+公司的中文名称|山东鲁北化工股份有限公司
+公司的中文简称|鲁北化工
+公司的外文名称|SHAN DONG LUBEI CHEMICAL CO., LTD
+公司的外文名称缩写|LBC
+公司的法定代表人|陈树常
+page|4
+公司注册地址|山东省无棣县埕口镇
+公司注册地址的邮政编码|251909
+公司办公地址|山东省无棣县埕口镇
+page|5
+公司办公地址的邮政编码|251909
+公司网址|http://www.lubeichem.com
+电子信箱|lubeichem@lubeichem.com

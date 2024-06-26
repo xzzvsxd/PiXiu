@@ -1,0 +1,13 @@
+page|4
+公司的中文名称|陕西北元化工集团股份有限公司
+公司的中文简称|北元集团
+公司的外文名称|ShaanxiBeiyuanChemicalIndustryGroupCo.,Ltd.
+公司的外文名称缩写|BeiyuanGroup
+公司的法定代表人|刘国强
+page|5
+公司注册地址|陕西省榆林市神木市锦界工业园区
+公司注册地址的邮政编码|719319
+公司办公地址|陕西省榆林市神木市锦界工业园区
+公司办公地址的邮政编码|719319
+公司网址|http://www.sxbychem.com
+电子信箱|Byjt@sxbychem.com

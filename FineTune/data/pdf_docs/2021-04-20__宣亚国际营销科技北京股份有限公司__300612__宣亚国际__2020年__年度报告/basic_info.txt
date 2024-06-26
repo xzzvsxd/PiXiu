@@ -1,0 +1,13 @@
+page|7
+股票简称|宣亚国际|股票代码|300612
+公司的中文名称|宣亚国际营销科技（北京）股份有限公司||
+公司的中文简称|宣亚国际||
+公司的外文名称（如有）|Shunya International Martech (Beijing) Co., Ltd.||
+公司的外文名称缩写（如有） Shunya International|||
+公司的法定代表人|邬涛||
+注册地址|北京市朝阳区八里庄东里 1 号 CN02-B||
+注册地址的邮政编码|100025||
+办公地址|北京市朝阳区八里庄东里 1 号 CN02-B||
+办公地址的邮政编码|100025||
+公司国际互联网网址|http://www.shunyagroup.com||
+电子信箱|stock@shunyagroup.com||

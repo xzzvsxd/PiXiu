@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|东珠生态环保股份有限公司
+公司的中文简称|东珠生态
+公司的外文名称|DongzhuEcologicalEnvironmentProtectionCo.,Ltd
+公司的外文名称缩写|
+公司的法定代表人|章建良
+page|5
+公司注册地址|无锡市锡山区东亭街道锡沪中路90号
+公司注册地址的历史变更情况|214101
+公司办公地址|无锡市锡山区东亭街道锡沪中路90号
+公司办公地址的邮政编码|214101
+公司网址|http://www.dongzhushengtai.com/
+电子信箱|dongzhushengtai@dongzhushengtai.com

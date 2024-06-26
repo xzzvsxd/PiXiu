@@ -1,0 +1,12 @@
+page|5
+公司的中文名称|唐山三友化工股份有限公司
+公司的中文简称|三友化工
+公司的外文名称|Tangshan Sanyou Chemical Industries Co.,Ltd
+公司的法定代表人|王春生
+page|5
+公司注册地址|河北省唐山市南堡开发区
+公司注册地址的邮政编码|063305
+公司办公地址|河北省唐山市南堡开发区
+公司办公地址的邮政编码|063305
+公司网址|http://www.sanyou-chem.com.cn
+电子信箱|zhengquanbu@sanyou-chem.cn

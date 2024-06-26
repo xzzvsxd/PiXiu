@@ -1,0 +1,12 @@
+page|6
+公司的中文名称|青岛海尔生物医疗股份有限公司
+公司的中文简称|海尔生物
+公司的外文名称|QINGDAO HAIER BIOMEDICAL CO., LTD.
+公司的外文名称缩写|HAIER BIOMEDICAL
+公司的法定代表人|刘占杰
+公司注册地址|青岛经济技术开发区海尔工业园内
+公司注册地址的邮政编码|266100
+公司办公地址|山东省青岛市高新区丰源路280号海尔生物医疗新兴产业园
+公司办公地址的邮政编码|266000
+公司网址|http://www.haierbiomedical.com
+电子信箱|haierbiomedical@haierbiomedical.com

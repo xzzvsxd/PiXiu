@@ -1,0 +1,14 @@
+page|5
+公司的中文名称|宏昌电子材料股份有限公司
+公司的中文简称|宏昌电子
+公司的外文名称|Epoxy Base Electronic Material Corporation Limited
+公司的外文名称缩写|EBEM
+公司的法定代表人|林瑞荣
+page|5
+公司注册地址|广州市萝岗区云埔一路一号之二
+公司注册地址的邮政编码|510530
+公司办公地址|广州市黄埔区开创大道728号保利中创孵化器3号楼212室
+公司办公地址的邮政编码|510530
+公司网址|www.graceepoxy.com
+page|6
+电子信箱|stock@graceepoxy.com

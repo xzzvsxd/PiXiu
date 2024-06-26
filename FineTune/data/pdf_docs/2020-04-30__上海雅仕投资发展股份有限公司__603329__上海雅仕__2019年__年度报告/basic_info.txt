@@ -1,0 +1,13 @@
+page|6
+公司的中文名称|上海雅仕投资发展股份有限公司
+公司的中文简称|上海雅仕
+公司的外文名称|SHANGHAI ACE INVESTMENT&DEVELOPMENT CO.,LTD
+公司的外文名称缩写|Shanghai Yashi
+公司的法定代表人|孙望平
+page|6
+公司注册地址|中国（上海）自由贸易试验区浦东南路855号33H室
+公司注册地址的邮政编码|200120
+公司办公地址|中国（上海）自由贸易试验区浦东南路855号36H室
+公司办公地址的邮政编码|200120
+公司网址|http://www.aceonline.cn/
+电子信箱|info@ace-sulfert.com

@@ -1,0 +1,13 @@
+page|7
+公司的中文名称|恒为科技（上海）股份有限公司
+公司的中文简称|恒为科技
+公司的外文名称|EmbedWay Technologies (Shanghai) Corporation
+公司的外文名称缩写|EmbedWay
+公司的法定代表人|沈振宇
+page|7
+公司注册地址|上海市徐汇区乐山路33号103室
+公司注册地址的邮政编码|200030
+公司办公地址|上海市闵行区陈行路2388号8号楼6楼
+公司办公地址的邮政编码|201114
+公司网址|www.embedway.com
+电子信箱|securities.affairs@embedway.com

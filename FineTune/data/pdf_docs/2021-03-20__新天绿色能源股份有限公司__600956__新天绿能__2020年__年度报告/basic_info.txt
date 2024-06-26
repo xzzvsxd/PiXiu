@@ -1,0 +1,13 @@
+page|11
+公司的中文名称|新天绿色能源股份有限公司
+公司的中文简称|新天绿色能源
+公司的外文名称|China Suntien Green Energy Corporation Limited
+公司的外文名称缩写|China Suntien Green Energy
+公司的法定代表人|曹欣
+page|12
+公司注册地址|石家庄市裕华西路9号
+公司注册地址的邮政编码|050001
+公司办公地址|石家庄市裕华西路9号裕园广场A座
+公司办公地址的邮政编码|050001
+公司网址|www.suntien.com
+电子信箱|ir@suntien.com

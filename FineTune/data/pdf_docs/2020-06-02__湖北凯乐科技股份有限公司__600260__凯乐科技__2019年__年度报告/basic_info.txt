@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|湖北凯乐科技股份有限公司
+公司的中文简称|凯乐科技
+公司的外文名称|KAILE SCIENCE AND TECHNOLOGY   CO;LTD.HUBEI
+公司的外文名称缩写|KAILE SCIENCE AND TECHNOLOGY
+公司的法定代表人|朱弟雄
+page|5
+公司注册地址|湖北省公安县
+公司注册地址的邮政编码|434300
+公司办公地址|湖北省公安县斗湖堤镇城关
+公司办公地址的邮政编码|434300
+公司网址|http://www.cnkaile.com
+电子信箱|kaile@cnkaile.com

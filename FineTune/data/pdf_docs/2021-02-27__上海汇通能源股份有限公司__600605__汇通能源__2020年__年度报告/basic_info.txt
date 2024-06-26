@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|上海汇通能源股份有限公司
+公司的中文简称|汇通能源
+公司的外文名称|SHANGHAI HUITONG ENERGY CO.,LTD
+公司的外文名称缩写|HUITONG ENERGY
+公司的法定代表人|杨张峰
+page|5
+公司注册地址|上海市浦东新区康桥路1100号
+公司注册地址的邮政编码|201315
+公司办公地址|上海市长宁区淞虹路207号明基广场B座7楼
+公司办公地址的邮政编码|200335
+公司网址|http://www.huitongenergy.com
+电子信箱|securities@huitongenergy.com

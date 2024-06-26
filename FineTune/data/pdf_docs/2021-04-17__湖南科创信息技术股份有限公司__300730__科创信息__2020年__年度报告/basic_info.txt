@@ -1,0 +1,13 @@
+page|7
+股票简称|科创信息|股票代码|300730
+公司的中文名称|湖南科创信息技术股份有限公司||
+公司的中文简称|科创信息||
+公司的外文名称（如有）|Hunan Creator Information Technologies CO., LTD.||
+公司的外文名称缩写（如有） Creator Information|||
+公司的法定代表人|费耀平||
+注册地址|长沙市岳麓区青山路 678 号||
+注册地址的邮政编码|410205||
+办公地址|长沙市岳麓区青山路 678 号||
+办公地址的邮政编码|410205||
+公司国际互联网网址|http://www.chinacreator.com||
+电子信箱|creator@chinacreator.com||

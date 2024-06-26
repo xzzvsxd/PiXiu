@@ -1,0 +1,13 @@
+page|4
+公司的中文名称|多伦科技股份有限公司
+公司的中文简称|多伦科技
+公司的外文名称|Duolun Technology Coropration Ltd.
+公司的外文名称缩写|DUOLUN
+公司的法定代表人|章安强
+page|4
+公司注册地址|南京市江宁区天印大道1555号
+公司注册地址的历史变更情况|无
+公司办公地址|南京市江宁区天印大道1555号
+公司办公地址的邮政编码|211112
+公司网址|www.duoluntech.com
+电子信箱|qianxiaojuan@duoluntech.com

@@ -1,0 +1,12 @@
+page|5
+公司的中文名称|安井食品集团股份有限公司
+公司的中文简称|安井食品
+公司的外文名称|ANJOY FOODS GROUP CO.,LTD.
+公司的外文名称缩写|Anjoy food
+公司的法定代表人|刘鸣鸣
+page|5
+公司注册地址|厦门市海沧区新阳路2508号
+公司办公地址|厦门市海沧区新阳路 2508 号
+公司办公地址的邮政编码|361022
+公司网址|www.anjoyfood.com
+电子信箱|zhengquanbu@anjoyfood.com

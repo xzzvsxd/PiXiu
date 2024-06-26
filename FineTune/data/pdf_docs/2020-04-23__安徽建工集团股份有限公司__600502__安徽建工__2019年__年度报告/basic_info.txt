@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|安徽建工集团股份有限公司
+公司的中文简称|安徽建工
+公司的外文名称|Anhui Construction Engineering Group Corporation Limited
+公司的外文名称缩写|ACEG
+公司的法定代表人|王厚良
+page|5
+公司注册地址|安徽省蚌埠市东海大道5183号
+公司注册地址的邮政编码|233010
+公司办公地址|安徽省合肥市蜀山区黄山路459号安建国际大厦
+公司办公地址的邮政编码|230031
+公司网址|www.aceg.com.cn
+电子信箱|ahjgzqb@163.com

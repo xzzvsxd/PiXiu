@@ -1,0 +1,14 @@
+page|5
+公司的中文名称|杭州联德精密机械股份有限公司
+公司的中文简称|联德股份
+公司的外文名称|Allied Machinery Co., Ltd.
+page|6
+公司的外文名称缩写|Allied Machinery
+公司的法定代表人|孙袁
+page|6
+公司注册地址|浙江省杭州经济技术开发区18号大街77号
+公司注册地址的邮政编码|310018
+公司办公地址|浙江省杭州经济技术开发区18号大街77号
+公司办公地址的邮政编码|310018
+公司网址|http://www.allied-machinery.com/
+电子信箱|allied@allied-machinery.com

@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|浙江康隆达特种防护科技股份有限公司
+公司的中文简称|康隆达
+公司的外文名称|ZheJiang KangLongDa Special Protection Technology Co., Ltd
+公司的外文名称缩写|KangLongDa
+公司的法定代表人|张间芳
+page|5
+公司注册地址|杭州湾上虞经济技术开发区纬五东路7号
+公司注册地址的邮政编码|312361
+公司办公地址|杭州湾上虞经济技术开发区纬五东路7号
+公司办公地址的邮政编码|312361
+公司网址|http://www.kanglongda.com.cn/
+电子信箱|kld@kanglongda.com.cn

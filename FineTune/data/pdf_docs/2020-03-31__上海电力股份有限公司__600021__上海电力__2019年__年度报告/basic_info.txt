@@ -1,0 +1,16 @@
+page|4
+公司的中文名称|上海电力股份有限公司
+公司的中文简称|上海电力
+公司的外文名称|SHANGHAI ELECTRIC POWER CO.,LTD
+公司的外文名称缩写|SEP
+公司的法定代表人|王运丹
+page|5
+传真|021-23108717|021-23108717
+电子信箱|sepco@shanghaipower.com|sepco@shanghaipower.com
+page|5
+公司注册地址|上海市中山南路268号
+公司注册地址的邮政编码|200010
+公司办公地址|上海市中山南路268号
+公司办公地址的邮政编码|200010
+公司网址|www.shanghaipower.com
+电子信箱|sepco@shanghaipower.com

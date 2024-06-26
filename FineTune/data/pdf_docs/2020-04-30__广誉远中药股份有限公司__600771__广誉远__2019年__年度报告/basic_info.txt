@@ -1,0 +1,12 @@
+page|6
+公司的中文名称|广誉远中药股份有限公司
+公司的中文简称|广誉远
+公司的外文名称|GuangYuYuan Chinese Herbal Medicine Co., Ltd.
+公司的法定代表人|张斌
+page|6
+公司注册地址|西宁经济技术开发区金桥路38号
+公司注册地址的邮政编码|810007
+公司办公地址|陕西省西安市高新区高新六路52号立人科技园A座六层
+公司办公地址的邮政编码|710065
+公司网址|http://www.guangyuyuan.com
+电子信箱|irm@guangyuyuan.com

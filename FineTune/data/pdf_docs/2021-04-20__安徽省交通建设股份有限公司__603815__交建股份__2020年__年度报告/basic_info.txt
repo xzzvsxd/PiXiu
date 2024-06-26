@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|安徽省交通建设股份有限公司
+公司的中文简称|交建股份
+公司的外文名称|Anhui Gourgen Traffic Construction Co.,Ltd.
+公司的外文名称缩写|Anhui Gourgen
+公司的法定代表人|吴小辉
+page|5
+公司注册地址|安徽省合肥市庐阳区濉溪路310号
+公司注册地址的邮政编码|230041
+公司办公地址|安徽省合肥市庐阳区濉溪路310号
+公司办公地址的邮政编码|230041
+公司网址|http://www.gourgen.com
+电子信箱|ahjj@gourgen.com

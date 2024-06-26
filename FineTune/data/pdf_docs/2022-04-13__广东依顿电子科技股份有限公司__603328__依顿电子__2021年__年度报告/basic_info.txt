@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|广东依顿电子科技股份有限公司
+公司的中文简称|依顿电子
+公司的外文名称|Guangdong Ellington Electronics Technology Co.,Ltd
+公司的外文名称缩写|Ellington
+公司的法定代表人|霞晖
+page|5
+公司注册地址|广东省中山市三角镇高平化工区
+公司注册地址的历史变更情况|528445
+公司办公地址|广东省中山市三角镇高平化工区
+公司办公地址的邮政编码|528445
+公司网址|www.ellingtonpcb.com
+电子信箱|ellington@ellingtonpcb.com

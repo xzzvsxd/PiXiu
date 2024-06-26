@@ -1,0 +1,12 @@
+page|5
+公司的中文名称|山东石大胜华化工集团股份有限公司
+公司的中文简称|石大胜华
+公司的外文名称|ShandongShidaShenghuaChemicalGroupCompanyLimited
+公司的法定代表人|郭天明
+page|5
+公司注册地址|山东省东营市垦利区同兴路198号
+公司注册地址的邮政编码|257503
+公司办公地址|山东省东营市垦利区同兴路198号
+公司办公地址的邮政编码|257503
+公司网址|http://www.sinodmc.com
+电子信箱|sdsh@sinodmc.com

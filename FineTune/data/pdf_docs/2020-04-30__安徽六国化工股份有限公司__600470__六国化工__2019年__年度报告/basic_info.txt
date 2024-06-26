@@ -1,0 +1,15 @@
+page|4
+公司的中文名称|安徽六国化工股份有限公司
+公司的中文简称|六国化工
+公司的外文名称|Anhui Liuguo Chemical Co.,Ltd
+公司的外文名称缩写|Liuguo Chemical
+公司的法定代表人|陈胜前
+page|5
+电子信箱|tlxxe@163.com|Zhouy207@sohu.com
+page|5
+公司注册地址|安徽省铜陵市铜港路
+公司注册地址的邮政编码|244000
+公司办公地址|安徽省铜陵市铜港路
+公司办公地址的邮政编码|244000
+公司网址|http://www.liuguo.com
+电子信箱|liuguo@liuguo.com

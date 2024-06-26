@@ -1,0 +1,15 @@
+page|6
+公司的中文名称|青岛港国际股份有限公司
+公司的中文简称|青岛港
+公司的外文名称|Qingdao Port International Co., Ltd.
+公司的外文名称缩写|QDPI
+公司的法定代表人|贾福宁
+page|7
+电子信箱|liuyx.cwb@qdport.com|shm@qdport.com
+page|7
+公司注册地址|青岛市黄岛区经八路12号
+公司注册地址的邮政编码|266500
+公司办公地址|青岛市市北区港寰路58号
+公司办公地址的邮政编码|266011
+公司网址|www.qingdao-port.com
+电子信箱|qggj@qdport.com

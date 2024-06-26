@@ -1,0 +1,1 @@
+{"id": "注册地点在北京市的公司中，2020年综合收益总额小于十亿的公司有几家？", "question": "注册地点在北京市的公司中，2020年综合收益总额小于十亿的公司有几家？", "sql": " select count(1) from company_table where 年份 = '2020' and 注册地址 like '%北京市%' and 综合收益总额 is not null and 综合收益总额 < 1000000000  "}

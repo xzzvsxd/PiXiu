@@ -1,0 +1,12 @@
+page|7
+公司的中文名称|北京宝兰德软件股份有限公司
+公司的中文简称|宝兰德
+公司的外文名称|Beijing Baolande Software Corporation.
+公司的外文名称缩写|Baolande
+公司的法定代表人|易存道
+公司注册地址|北京市海淀区上地六街17号6314室
+公司注册地址的邮政编码|100085
+公司办公地址|北京市海淀区上地六街17号6314室
+公司办公地址的邮政编码|100085
+公司网址|www.bessystem.com
+电子信箱|besinvestors@bessystem.com

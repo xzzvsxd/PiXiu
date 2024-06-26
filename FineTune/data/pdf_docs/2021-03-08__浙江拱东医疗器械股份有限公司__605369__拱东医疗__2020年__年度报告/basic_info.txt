@@ -1,0 +1,13 @@
+page|7
+公司的中文名称|浙江拱东医疗器械股份有限公司
+公司的中文简称|拱东医疗
+公司的外文名称|Zhejiang Gongdong Medical Technology Co., Ltd.
+公司的外文名称缩写|Gongdong Medical
+公司的法定代表人|施慧勇
+page|7
+公司注册地址|浙江省台州市黄岩区北院大道10号
+公司注册地址的邮政编码|318020
+公司办公地址|浙江省台州市黄岩区北院大道10号
+公司办公地址的邮政编码|318020
+公司网址|www.chinagongdong.com
+电子信箱|jsw@chinagongdong.com

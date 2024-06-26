@@ -1,0 +1,14 @@
+page|4
+公司的中文名称|钱江水利开发股份有限公司
+公司的中文简称|钱江水利
+公司的外文名称|QIAN JIANG WATER RESOURCES DEVELOPMENT C0.,LTD
+公司的外文名称缩写|QJSL
+公司的法定代表人|叶建桥
+page|4
+公司注册地址|浙江省杭州市三台山路3号
+公司注册地址的邮政编码|310013
+公司办公地址|浙江省杭州市三台山路3号
+page|5
+公司办公地址的邮政编码|310013
+公司网址|http://www.qjwater.com
+电子信箱|qjsl@qjwater.com

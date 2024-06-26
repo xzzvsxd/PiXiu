@@ -1,0 +1,13 @@
+page|4
+公司的中文名称|江苏凤凰出版传媒股份有限公司
+公司的中文简称|凤凰传媒
+公司的外文名称|Jiangsu   Phoenix Publishing & Media Corporation Limited
+公司的外文名称缩写|Phoenix Media
+公司的法定代表人|梁勇
+page|5
+公司注册地址|南京市湖南路1号凤凰广场B座
+公司注册地址的邮政编码|210009
+公司办公地址|南京市湖南路1号凤凰广场B座
+公司办公地址的邮政编码|210009
+公司网址|www.ppm.cn
+电子信箱|zhengquan@ppm.cn

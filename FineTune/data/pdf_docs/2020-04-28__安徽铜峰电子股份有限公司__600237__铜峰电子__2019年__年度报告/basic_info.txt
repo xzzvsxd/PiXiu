@@ -1,0 +1,14 @@
+page|5
+公司的中文名称|安徽铜峰电子股份有限公司
+公司的中文简称|铜峰电子
+公司的外文名称|ANHUI TONGFENG ELECTRONICS COMPANY LIMITED
+公司的外文名称缩写|TFE
+公司的法定代表人|唐忠民
+page|5
+公司注册地址|安徽省铜陵市经济技术开发区翠湖三路399号
+公司注册地址的邮政编码|244000
+page|6
+公司办公地址|安徽省铜陵市经济技术开发区翠湖三路399号铜峰工业园
+公司办公地址的邮政编码|244000
+公司网址|http：//www.tong-feng.com
+电子信箱|webmaster@tong-feng.com

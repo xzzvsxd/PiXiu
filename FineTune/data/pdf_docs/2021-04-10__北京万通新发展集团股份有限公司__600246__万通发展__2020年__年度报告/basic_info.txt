@@ -1,0 +1,14 @@
+page|5
+公司的中文名称|北京万通新发展集团股份有限公司
+公司的中文简称|万通发展
+公司的外文名称|Vantone Neo Development Group Co.,Ltd.
+公司的外文名称缩写|Vantone NeoDev Group
+公司的法定代表人|王忆会
+page|5
+公司注册地址|北京市海淀区农大南路1号院9号楼5层501-551
+公司注册地址的邮政编码|100084
+page|6
+公司办公地址|北京市朝阳区朝外大街甲6号万通中心写字楼D座4层
+公司办公地址的邮政编码|100020
+公司网址|www.vantone.com
+电子信箱|dongban@vantone.com

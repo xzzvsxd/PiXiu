@@ -1,0 +1,13 @@
+page|7
+公司的中文名称|上海贝岭股份有限公司
+公司的中文简称|上海贝岭
+公司的外文名称|Shanghai Belling Corp., Ltd.
+公司的外文名称缩写|Shanghai Belling
+公司的法定代表人|马玉川
+page|7
+公司注册地址|上海市宜山路810号
+公司注册地址的邮政编码|200233
+公司办公地址|上海市宜山路810号
+公司办公地址的邮政编码|200233
+公司网址|http://www.belling.com.cn
+电子信箱|bloffice@belling.com.cn

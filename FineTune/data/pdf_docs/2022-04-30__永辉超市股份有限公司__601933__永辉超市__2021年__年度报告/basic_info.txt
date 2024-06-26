@@ -1,0 +1,11 @@
+page|4
+公司的中文名称|永辉超市股份有限公司
+公司的中文简称|永辉超市
+公司的外文名称|YONGHUI SUPERSTORES CO., LTD.
+公司的外文名称缩写|YONGHUI SUPERSTORES
+公司的法定代表人|张轩松
+page|5
+公司办公地址|福建省福州市鼓楼区湖头街120号光荣路5号院
+公司办公地址的邮政编码|350002
+公司网址|http://www.yonghui.com.cn
+电子信箱|bod.yh@yonghui.cn

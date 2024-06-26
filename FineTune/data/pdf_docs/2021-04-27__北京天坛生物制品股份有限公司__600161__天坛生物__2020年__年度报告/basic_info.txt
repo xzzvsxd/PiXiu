@@ -1,0 +1,13 @@
+page|4
+公司的中文名称|北京天坛生物制品股份有限公司
+公司的中文简称|天坛生物
+公司的外文名称|BEIJING TIANTAN BIOLOGICAL PRODUCTS CORPORATION LIMITED
+公司的外文名称缩写 BTBP|
+公司的法定代表人|付道兴
+page|4
+公司注册地址|北京市北京经济技术开发区博兴二路6号院8号楼521室
+公司注册地址的邮政编码|100076
+公司办公地址|北京市朝阳区双桥路乙2号院
+公司办公地址的邮政编码|100024
+公司网址|http://www.TiantanBio.com
+电子信箱|ttsw@sinopharm.com

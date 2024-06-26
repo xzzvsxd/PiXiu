@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|凤凰光学股份有限公司
+公司的中文简称|凤凰光学
+公司的外文名称|PHENIX OPTICS COMPANY LIMITED
+公司的外文名称缩写|PHENIX OPTICS
+公司的法定代表人|陈宗年
+page|5
+公司注册地址|江西省上饶市凤凰西大道197号
+公司注册地址的邮政编码|334100
+公司办公地址|江西省上饶市凤凰西大道197号
+公司办公地址的邮政编码|334100
+公司网址|http://www.phenixoptics.com.cn
+电子信箱|600071@phenixoptics.com.cn

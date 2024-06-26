@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|神通科技集团股份有限公司
+公司的中文简称|神通科技
+公司的外文名称|SHEN TONG TECHNOLOGY GROUP CO., LTD.
+公司的外文名称缩写|SHEN TONG TECHNOLOGY
+公司的法定代表人|方立锋
+page|5
+公司注册地址|浙江省余姚市兰江街道谭家岭西路788号
+公司注册地址的邮政编码|315402
+公司办公地址|浙江省余姚市兰江街道谭家岭西路788号
+公司办公地址的邮政编码|315402
+公司网址|www.shentong-china.com
+电子信箱|zqb@shentong-china.com

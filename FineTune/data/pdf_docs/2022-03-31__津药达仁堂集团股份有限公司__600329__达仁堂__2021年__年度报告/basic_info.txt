@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|天津中新药业集团股份有限公司
+公司的中文简称|中新药业
+公司的外文名称|TIANJIN ZHONGXIN PHARMACEUTICAL GROUP CORPORATION LIMITED
+公司的外文名称缩写|TZXP
+公司的法定代表人|张铭芮
+page|5
+公司注册地址|天津市南开区白堤路17号
+公司办公地址|天津市南开区白堤路 17 号
+page|6
+公司办公地址的邮政编码|300193
+公司网址|http://www.zhongxinp.com
+电子信箱|zxyy600329@163.com

@@ -1,0 +1,30 @@
+page|7
+公司的中文名称|中芯国际集成电路制造有限公司
+公司的中文简称|中芯国际
+公司的外文名称|Semiconductor Manufacturing International Corporation
+公司的外文名称缩写|SMIC
+公司的法定代表人(1)|周子学
+公司注册地址|Cricket Square, Hutchins Drive, P.O. Box 2681, Grand Cayman, KY1 1111 Cayman Islands
+公司注册地址的邮政编码|P.O. Box 2681
+公司办公地址|中国上海市浦东新区张江路 18 号
+公司办公地址的邮政编码|201203
+公司网址|http://www.smics.com/
+电子信箱|ir@smics.com
+香港注册的营业地点|香港皇后大道中9号30楼3003室
+公司秘书|高永岗
+香港上市规则之授权代表|周子学、高永岗
+A股股票的托管机构|中国证券登记结算有限责任公司上海分公司
+港股股份过户登记处|香港中央证券登记有限公司，香港湾仔皇后大道东183号合和中心17M楼
+财务日志|
+2020年年度业绩公告|2021年3月31日
+2021年股东周年大会|2021年6月25日
+就2021年股东周年大会暂停办理股份过户登记手续的期间（港股股份）|2021年6月22日至2021年6月25日（包括首尾两日）
+就2021年股东周年大会的股权登记日(A股股份)|2021年6月21日
+财务年度结算日|12月31日
+page|8
+存托机构|名称|JPMorgan Chase Bank, N.A.
+|办公地址|383 Madison Avenue, Floor 11, New York, NY 10179
+|经办人|Depositary Receipt Group.
+托管机构|名称|JPMorgan Chase Bank, N.A., Hong Kong Branch
+|办公地址|18/F  The  Quayside  Tower  Two,  77  Hoi  Bun  Road, Kwun Tong, Kowloon, Hong Kong
+|经办人|Direct Custody & Clearing

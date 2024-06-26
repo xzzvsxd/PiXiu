@@ -1,0 +1,12 @@
+page|5
+股票简称|中南建设|股票代码|000961
+股票上市证券交易所|深圳证券交易所||
+公司的中文名称|江苏中南建设集团股份有限公司||
+公司的中文简称|中南建设||
+公司的外文名称|Jiangsu Zhongnan Construction Group Co., Ltd.||
+注册地址|江苏省海门市常乐镇||
+注册地址的邮政编码|226124||
+办公地址|上海市长宁区天山西路 1068 号 A 栋 9 楼||
+办公地址的邮政编码|200335||
+公司网址|www.zhongnangroup.cn||
+电子信箱|zhongnanconstruction@zhongnangroup.cn||

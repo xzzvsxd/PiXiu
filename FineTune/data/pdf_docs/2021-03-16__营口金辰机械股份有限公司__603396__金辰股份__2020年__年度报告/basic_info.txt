@@ -1,0 +1,13 @@
+page|6
+公司的中文名称|营口金辰机械股份有限公司
+公司的中文简称|金辰股份
+公司的外文名称|YINGKOU JINCHEN MACHINERY CO.,LTD.
+公司的外文名称缩写|JINCHEN MACHINERY
+公司的法定代表人|李义升
+page|6
+公司注册地址|辽宁省营口市西市区新港大街95号
+公司注册地址的邮政编码|115000
+公司办公地址|江苏省苏州市吴中区淞苇路1688号B栋
+公司办公地址的邮政编码|215000
+公司网址|http://www.jinchensolar.com/
+电子信箱|jc_irm@jinchenmachine.com

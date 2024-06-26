@@ -1,0 +1,13 @@
+page|6
+公司的中文名称|哈药集团人民同泰医药股份有限公司
+公司的中文简称|人民同泰
+公司的外文名称|HPGC RenmintongtaiPharmaceutical Corporation
+公司的外文名称缩写|HRPC
+公司的法定代表人|刘波
+page|6
+公司注册地址|哈尔滨市南岗区衡山路76号
+公司注册地址的邮政编码|150090
+公司办公地址|哈尔滨市道里区哈药路418号
+公司办公地址的邮政编码|150071
+公司网址|www.hyrmtt.com.cn
+电子信箱|renmintongtai@hyrmtt.com.cn

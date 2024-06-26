@@ -1,0 +1,14 @@
+page|5
+公司的中文名称|山东玲珑轮胎股份有限公司
+公司的中文简称|玲珑轮胎
+公司的外文名称|Shandong Linglong Tyre Co.,Ltd.
+公司的外文名称缩写|Linglong Tyre
+公司的法定代表人|王锋
+page|5
+公司注册地址|山东省招远市金龙路777号
+公司注册地址的邮政编码|265406
+公司办公地址|山东省招远市金龙路777号
+公司办公地址的邮政编码|265406
+page|6
+公司网址|www.linglong.cn
+电子信箱|linglongdsb@linglong.cn

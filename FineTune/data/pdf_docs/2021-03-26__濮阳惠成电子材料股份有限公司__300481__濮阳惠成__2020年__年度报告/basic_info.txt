@@ -1,0 +1,12 @@
+page|5
+股票简称|濮阳惠成|股票代码|300481
+公司的中文名称|濮阳惠成电子材料股份有限公司||
+公司的中文简称|濮阳惠成||
+公司的外文名称（如有）|Puyang Huicheng Electronic Material Co.,Ltd||
+公司的法定代表人|吴悲鸿||
+注册地址|河南省濮阳市胜利路西段||
+注册地址的邮政编码|457001||
+办公地址|河南省濮阳市胜利路西段||
+办公地址的邮政编码|457001||
+公司国际互联网网址|www.huichengchem.com||
+电子信箱|chenshumin@huichengchem.com      weihonghu@huichengchem.com||

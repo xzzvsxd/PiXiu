@@ -1,0 +1,13 @@
+page|6
+公司的中文名称|中国卫通集团股份有限公司
+公司的中文简称|中国卫通
+公司的外文名称|China Satellite Communications Co., Ltd.
+公司的外文名称缩写|CHINA SATCOM
+公司的法定代表人|李忠宝
+page|6
+公司注册地址|北京市海淀区后厂村路59号
+公司注册地址的邮政编码|100094
+公司办公地址|北京市海淀区知春路65号
+公司办公地址的邮政编码|100086
+公司网址|http://www.chinasatcom.com
+电子信箱|chinasatcom@chinasatcom.com

@@ -1,0 +1,13 @@
+page|6
+公司的中文名称|江西晨光新材料股份有限公司
+公司的中文简称|晨光新材
+公司的外文名称|Jiangxi Chenguang New Materials Company Limited
+公司的外文名称缩写|Chenguang New Materials
+公司的法定代表人|丁建峰
+page|6
+公司注册地址|江西省九江市湖口县金砂湾工业园
+公司注册地址的邮政编码|332500
+公司办公地址|江西省九江市湖口县金砂湾工业园
+公司办公地址的邮政编码|332500
+公司网址|www.cgsilane.cn
+电子信箱|jiangxichenguang@cgsilane.com

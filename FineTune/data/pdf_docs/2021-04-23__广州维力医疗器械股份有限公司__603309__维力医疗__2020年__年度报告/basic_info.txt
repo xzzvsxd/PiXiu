@@ -1,0 +1,17 @@
+page|4
+公司的中文名称|广州维力医疗器械股份有限公司
+公司的中文简称|维力医疗
+公司的外文名称|Well Lead Medical Co.,Ltd
+公司的外文名称缩写|Well Lead
+公司的法定代表人|韩广源
+page|5
+电话|020-39945995|020-39945995
+传真|020-39945995|020-39945995
+电子信箱|visitor@welllead.com.cn|visitor@welllead.com.cn
+page|5
+公司注册地址|广州市番禺区化龙镇金湖工业城C区4号
+公司注册地址的邮政编码|511434
+公司办公地址|广州市番禺区化龙镇国贸大道南47号
+公司办公地址的邮政编码|511434
+公司网址|www.welllead.com.cn
+电子信箱|visitor@welllead.com.cn

@@ -1,0 +1,12 @@
+page|7
+公司的中文名称|奥精医疗科技股份有限公司
+公司的中文简称|奥精医疗
+公司的外文名称|Allgens Medical Technology CO., LTD.
+公司的外文名称缩写|Allgens
+公司的法定代表人|Eric Gang Hu（胡刚）
+公司注册地址|北京市海淀区开拓路  5  号  3  层  A305
+公司注册地址的历史变更情况|无
+公司办公地址|北京市海淀区开拓路  5  号  3  层  A305
+公司办公地址的邮政编码|100026
+公司网址|www.allgensmed.cn
+电子信箱|information@allgensmed.com

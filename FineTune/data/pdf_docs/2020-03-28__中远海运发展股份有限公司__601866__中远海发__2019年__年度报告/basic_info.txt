@@ -1,0 +1,14 @@
+page|5
+公司的中文名称|中远海运发展股份有限公司
+公司的中文简称|中远海发
+公司的外文名称|COSCO SHIPPING Development Company Limited
+page|6
+公司的外文名称缩写|COSCO SHIPPING Developmet
+公司的法定代表人|王大雄
+page|6
+公司注册地址|中国（上海）自由贸易试验区国贸大厦A-538室
+公司注册地址的邮政编码|201306
+公司办公地址|上海市浦东新区滨江大道5299号中国远洋海运大厦
+公司办公地址的邮政编码|200127
+公司网址|http://development.coscoshipping.com
+电子信箱|ir@coscoshipping.com

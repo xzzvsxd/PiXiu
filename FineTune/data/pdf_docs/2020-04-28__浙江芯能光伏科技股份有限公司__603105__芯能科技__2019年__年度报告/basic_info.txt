@@ -1,0 +1,13 @@
+page|4
+公司的中文名称|浙江芯能光伏科技股份有限公司
+公司的中文简称|芯能科技
+公司的外文名称|Zhejiang Sunoren Solar Technology Co.,Ltd.
+公司的外文名称缩写|SUNOREN
+公司的法定代表人|张利忠
+page|5
+公司注册地址|浙江省海宁市皮都路9号
+公司注册地址的邮政编码|314400
+公司办公地址|浙江省海宁市皮都路9号
+公司办公地址的邮政编码|314400
+公司网址|www.sunorensolar.com
+电子信箱|xnkj@sunorensolar.com

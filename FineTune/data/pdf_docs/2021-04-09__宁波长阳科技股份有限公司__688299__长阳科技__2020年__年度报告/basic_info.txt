@@ -1,0 +1,12 @@
+page|8
+公司的中文名称|宁波长阳科技股份有限公司
+公司的中文简称|长阳科技
+公司的外文名称|Ningbo Solartron Technology Co.,Ltd.
+公司的外文名称缩写|Solartron Technology
+公司的法定代表人|金亚东
+公司注册地址|宁波市江北区庆丰路999号
+公司注册地址的邮政编码|315000
+公司办公地址|宁波市江北区庆丰路999号
+公司办公地址的邮政编码|315000
+公司网址|http://www.solartrontech.com/
+电子信箱|ir@solartrontech.com

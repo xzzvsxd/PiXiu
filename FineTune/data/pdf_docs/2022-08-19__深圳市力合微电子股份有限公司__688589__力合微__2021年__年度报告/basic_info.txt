@@ -1,0 +1,15 @@
+page|6
+公司的中文名称|深圳市力合微电子股份有限公司
+公司的中文简称|力合微
+公司的外文名称|Leaguer（Shenzhen）Microelectronics Corp.
+公司的外文名称缩写|LME
+公司的法定代表人|贺臻
+公司注册地址|深圳市南山区西丽街道高新技术产业园清华信息港科研楼11楼1101
+公司注册地址的历史变更情况 不适用|
+公司办公地址|深圳市南山区西丽街道高新技术产业园清华信息港科研楼 11 楼1101
+公司办公地址的邮政编码|518057
+公司网址|http://www.leaguerme.com
+电子信箱|zhengquanbu@leaguerme.com
+page|7
+传真|0755-26957410|0755-26957410
+电子信箱|zhengquanbu@leaguerme.com|zhengquanbu@leaguerme.com

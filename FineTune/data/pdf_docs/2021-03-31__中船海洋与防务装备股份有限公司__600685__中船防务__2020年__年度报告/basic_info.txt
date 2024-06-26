@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|中船海洋与防务装备股份有限公司
+公司的中文简称|中船防务
+公司的外文名称|CSSC OFFSHORE&MARINE ENGINEERING(GROUP) COMPANY LIMITED
+公司的外文名称缩写|COMEC
+公司的法定代表人|韩广德
+page|5
+公司注册地址|中国，广州市海珠区革新路137号船舶大厦15层
+公司注册地址的邮政编码|510250
+公司办公地址|中国，广州市海珠区革新路137号船舶大厦15层
+公司办公地址的邮政编码|510250
+公司网址|comec.cssc.net.cn
+电子信箱|comec@comec.cssc.net.cn

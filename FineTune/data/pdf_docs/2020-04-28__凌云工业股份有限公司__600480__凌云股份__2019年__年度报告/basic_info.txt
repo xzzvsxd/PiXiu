@@ -1,0 +1,12 @@
+page|4
+公司的中文名称|凌云工业股份有限公司
+公司的中文简称|凌云股份
+公司的外文名称|Ling Yun Industrial Corporation Limited
+公司的法定代表人|信虎峰
+page|4
+公司注册地址|河北省涿州市松林店镇
+公司注册地址的邮政编码|072761
+公司办公地址|河北省涿州市松林店镇
+公司办公地址的邮政编码|072761
+公司网址|http://www.lingyun.com.cn
+电子信箱|info@lygf.com

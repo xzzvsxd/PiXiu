@@ -1,0 +1,12 @@
+page|6
+公司的中文简称|澳弘电子
+公司的外文名称|Changzhou Aohong Electronics CO., LTD.
+公司的外文名称缩写|Aohong Electronics
+公司的法定代表人|陈定红
+page|6
+公司注册地址|江苏省常州市新北区新科路15号
+公司注册地址的邮政编码|213031
+公司办公地址|江苏省常州市新北区新科路15号
+公司办公地址的邮政编码|213031
+公司网址|www.czaohong.com
+电子信箱|aohdz@czaohong.com

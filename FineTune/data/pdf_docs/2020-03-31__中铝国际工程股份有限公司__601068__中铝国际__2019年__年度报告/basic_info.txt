@@ -1,0 +1,14 @@
+page|7
+公司的中文名称|中铝国际工程股份有限公司
+公司的中文简称|中铝国际
+公司的外文名称|China Aluminum International Engineering Corporation Limited
+公司的外文名称缩写|CHALIECO
+公司的法定代表人|武建强
+page|7
+公司注册地址|北京市海淀区杏石口路99号C座
+公司注册地址的邮政编码|100093
+公司境内办公地址|北京市海淀区杏石口路99号C座
+公司境内办公地址的邮政编码|100093
+公司香港办公地址|香港金钟夏悫道16号远东金融中心4501室
+公司网址|http://www.chalieco.com.cn
+电子信箱|IR-chalieco@chalieco.com.cn

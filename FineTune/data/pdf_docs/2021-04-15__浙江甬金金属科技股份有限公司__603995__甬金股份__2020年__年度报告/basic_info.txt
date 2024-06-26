@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|浙江甬金金属科技股份有限公司
+公司的中文简称|甬金股份
+公司的外文名称|Zhejiang Yongjin Metal Technology Co.,Ltd
+公司的外文名称缩写|YONGJIN CORP.
+公司的法定代表人|YU JIQUN（虞纪群）
+page|5
+公司注册地址|浙江兰溪经济开发区创业大道 99 号
+公司注册地址的邮政编码|321100
+公司办公地址|浙江兰溪经济开发区创业大道 99 号
+公司办公地址的邮政编码|321100
+公司网址|www.yjgf.com
+电子信箱|yongjinkeji@yjgf.com

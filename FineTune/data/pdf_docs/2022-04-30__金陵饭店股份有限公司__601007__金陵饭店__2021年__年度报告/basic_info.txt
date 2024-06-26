@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|金陵饭店股份有限公司
+公司的中文简称|金陵饭店
+公司的外文名称|JINLING HOTEL CORPORATION, LTD.
+公司的外文名称缩写|JINLING HOTEL
+公司的法定代表人|李茜
+page|5
+公司注册地址|南京市汉中路2号
+公司注册地址的历史变更情况|210005
+公司办公地址|南京市汉中路2号
+公司办公地址的邮政编码|210005
+公司网址|http://www.jinlinghotel.com
+电子信箱|securities@jinlinghotel.com

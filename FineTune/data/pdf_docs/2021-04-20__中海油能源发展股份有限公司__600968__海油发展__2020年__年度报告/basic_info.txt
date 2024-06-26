@@ -1,0 +1,13 @@
+page|7
+公司的中文名称|中海油能源发展股份有限公司
+公司的中文简称|海油发展
+公司的外文名称|CNOOC Energy Technology & Services Limited
+公司的外文名称缩写|CNOOC EnerTech
+公司的法定代表人|朱磊
+page|7
+公司注册地址|北京市东城区东直门外小街6号
+公司注册地址的邮政编码|100027
+公司办公地址|北京市东城区东直门外小街6号
+公司办公地址的邮政编码|100027
+公司网址|http://cenertech.cnooc.com.cn
+电子信箱|sh_cenertech@cnooc.com.cn

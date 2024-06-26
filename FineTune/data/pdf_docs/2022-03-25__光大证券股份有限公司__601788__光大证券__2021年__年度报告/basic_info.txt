@@ -1,0 +1,9 @@
+page|4
+|第二节  公司简介和主要财务指标
+一、  公司信息|
+公司的中文名称|光大证券股份有限公司
+公司的中文简称|光大证券
+公司的外文名称|Everbright Securities Company Limited
+公司的外文名称缩写|EBSCN（A股）、EB SECURITIES（H股）
+公司的法定代表人|刘秋明
+公司总经理|刘秋明

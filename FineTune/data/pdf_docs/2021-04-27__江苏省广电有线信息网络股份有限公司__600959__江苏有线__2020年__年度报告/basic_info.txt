@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|江苏省广电有线信息网络股份有限公司
+公司的中文简称|江苏有线
+公司的外文名称|Jiangsu Broadcasting Cable Information Network Corporation Limited
+公司的外文名称缩写|JSCN
+公司的法定代表人|姜龙
+page|5
+公司注册地址|南京市江东中路222号南京市奥体体育科技中心六楼
+公司注册地址的邮政编码|210019
+公司办公地址|江苏省南京市麒麟科技创新园运粮河西路101号江苏有线三网融合枢纽中心
+公司办公地址的邮政编码|210046
+公司网址|http://www.jscnnet.com
+电子信箱|jscn@jscnnet.com

@@ -1,0 +1,12 @@
+page|8
+公司的中文名称|华润微电子有限公司
+公司的中文简称|华润微
+公司的外文名称|China Resources Microelectronics Limited
+公司的外文名称缩写|CRM
+公司的法定代表人|陈南翔
+公司注册地址|Conyers Trust Company (Cayman) Limited, Cricket Square, Hutchins Drive, PO  Box 2681, Grand Cayman, KY1-1111, Cayman Islands
+公司注册地址的邮政编码|KY1-1111
+公司办公地址|地址一：江苏省无锡市梁溪路14号 地址二：上海市静安区市北智汇园汶水路299弄12号
+公司办公地址的邮政编码|214061、200072
+公司网址|www.crmicro.com
+电子信箱|crmic_hq_ir_zy@crmicro.com

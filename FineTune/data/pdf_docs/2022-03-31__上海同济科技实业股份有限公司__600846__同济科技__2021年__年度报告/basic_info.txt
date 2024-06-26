@@ -1,0 +1,13 @@
+page|4
+公司的中文名称|上海同济科技实业股份有限公司
+公司的中文简称|同济科技
+公司的外文名称|SHANGHAI   TONGJI SCIENCE&TECHNOLOGY INDUSTRIAL CO.,LTD
+公司的外文名称缩写|TJKJ
+公司的法定代表人|王明忠
+page|5
+公司注册地址|中国（上海）自由贸易试验区栖山路33号
+公司注册地址的历史变更情况|无
+公司办公地址|上海市四平路1398号同济联合广场B座20层
+公司办公地址的邮政编码|200092
+公司网址|www.tjkjsy.com.cn
+电子信箱|tjkjsy@tjkjsy.com.cn

@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|哈尔滨工大高新技术产业开发股份有限公司
+公司的中文简称|工大高新
+公司的外文名称|HARBIN  GONG  DAHIGH-TECH  ENTERPRISE  DEVELOPMENT CO.,LTD
+公司的外文名称缩写|HGDHTED
+公司的法定代表人|任会云
+page|6
+公司注册地址|哈尔滨市南岗区西大直街118号
+公司注册地址的邮政编码|150006
+公司办公地址|哈尔滨市南岗区长江路398号
+公司办公地址的邮政编码|150000
+公司网址|http://hit-hi-tech.cn/
+电子信箱|gongdagaoxin@163.com

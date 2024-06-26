@@ -1,0 +1,12 @@
+page|4
+公司的中文名称|福建龙马环卫装备股份有限公司
+公司的中文简称|龙马环卫
+公司的外文名称|Fujian Longma Environmental Sanitation Equipment Co.,Ltd.
+公司的法定代表人|张桂潮
+page|4
+公司注册地址|福建省龙岩经济开发区
+公司注册地址的邮政编码|364028
+公司办公地址|福建省龙岩经济开发区
+公司办公地址的邮政编码|364028
+公司网址|http://www.fjlm.com.cn
+电子信箱|fjlm@fjlm.com.cn

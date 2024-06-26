@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|双良节能系统股份有限公司
+公司的中文简称|双良节能
+公司的外文名称|Shuangliang Eco-Energy Systems Co.,Ltd
+公司的外文名称缩写|Shuangliang Eco-Energy
+公司的法定代表人|缪文彬
+page|6
+公司注册地址|江苏省江阴市利港镇
+公司注册地址的邮政编码|214444
+公司办公地址|江苏省江阴市利港镇西利路88号
+公司办公地址的邮政编码|214444
+公司网址|www.shuangliang.com
+电子信箱|600481@shuangliang.com

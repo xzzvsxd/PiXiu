@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|新疆洪通燃气股份有限公司
+公司的中文简称|洪通燃气
+公司的外文名称|Xinjiang Hongtong Natural Gas Co., Ltd.
+公司的外文名称缩写|Hongtong Natural Gas
+公司的法定代表人|刘洪兵
+page|5
+公司注册地址|新疆巴州库尔勒市人民东路
+公司注册地址的邮政编码|841000
+公司办公地址|新疆库尔勒经济技术开发区南苑路洪通工业园
+公司办公地址的邮政编码|841000
+公司网址|http://www.xjhtrq.com
+电子信箱|htgf@xjhtrq.com

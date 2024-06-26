@@ -1,0 +1,17 @@
+page|5
+公司的中文名称|北京昭衍新药研究中心股份有限公司
+公司的中文简称|昭衍新药
+公司的外文名称|JOINN LABORATORIES(CHINA)CO.,LTD.
+公司的外文名称缩写|JOINN
+公司的法定代表人|冯宇霞
+page|6
+电话|010-67869582|010-67869582
+传真|010-67869966-1073|010-67869966-1073
+电子信箱|gaodapeng@joinn-lab.com|jiafengsong@joinn-lab.com
+page|6
+公司注册地址|北京市经济技术开发区荣京东街甲5号
+公司注册地址的邮政编码|100176
+公司办公地址|北京市经济技术开发区荣京东街甲5号
+公司办公地址的邮政编码|100176
+公司网址|http://www.joinn-lab.com
+电子信箱|jiafengsong@joinn-lab.com

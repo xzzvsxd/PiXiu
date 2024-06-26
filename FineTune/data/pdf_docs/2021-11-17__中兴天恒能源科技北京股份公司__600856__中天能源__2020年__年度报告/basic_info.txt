@@ -1,0 +1,13 @@
+page|6
+公司的中文名称|中兴天恒能源科技（北京）股份公司
+公司的中文简称|中天能源
+公司的外文名称|Zhongxing Tianheng Energy Technology (Beijing) Co.,Ltd.
+公司的外文名称缩写|ZhongTian Energy
+公司的法定代表人|黄杰
+page|6
+公司注册地址|北京市东城区东长安街1号东方广场W2座
+公司注册地址的邮政编码|100006
+公司办公地址|北京市东城区东长安街1号东方广场W2座
+公司办公地址的邮政编码|100006
+公司网址|http://www.snencn.cn
+电子信箱|zhongtian@snencn.cn

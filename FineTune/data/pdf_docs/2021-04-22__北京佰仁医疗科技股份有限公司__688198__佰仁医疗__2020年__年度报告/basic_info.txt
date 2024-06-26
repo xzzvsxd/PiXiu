@@ -1,0 +1,12 @@
+page|6
+公司的中文名称|北京佰仁医疗科技股份有限公司
+公司的中文简称|佰仁医疗
+公司的外文名称|Beijing Balance Medical Technology Co., Ltd.
+公司的外文名称缩写|Balance Medical
+公司的法定代表人|金磊
+公司注册地址|北京市昌平区科技园东区华昌路2号
+公司注册地址的邮政编码|102200
+公司办公地址|北京市昌平区科技园东区华昌路2号
+公司办公地址的邮政编码|102200
+公司网址|http://www.balancemed.cn
+电子信箱|bjbalance@balancemed.cn

@@ -1,0 +1,13 @@
+page|8
+公司的中文名称|金石资源集团股份有限公司
+公司的中文简称|金石资源
+公司的外文名称|China Kings Resources Group Co.,Ltd.
+公司的外文名称缩写|Kings
+公司的法定代表人|王锦华
+page|8
+公司注册地址|杭州市拱墅区莫干山路耀江国际大厦B座20层B室
+公司注册地址的邮政编码|310005
+公司办公地址|杭州市求是路8号公元大厦南楼2301室
+公司办公地址的邮政编码|310013
+公司网址|http://www.chinesekings.com
+电子信箱|webmaster@chinesekings.com

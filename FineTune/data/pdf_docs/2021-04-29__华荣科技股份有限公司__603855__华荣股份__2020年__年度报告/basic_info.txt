@@ -1,0 +1,13 @@
+page|4
+公司的中文名称|华荣科技股份有限公司
+公司的中文简称|华荣股份
+公司的外文名称|Warom Technology Incorporated Company
+公司的外文名称缩写|Warom Incorporated
+公司的法定代表人|胡志荣
+page|5
+公司注册地址|上海市嘉定区宝钱公路555号
+公司注册地址的邮政编码|201808
+公司办公地址|上海市嘉定区宝钱公路555号
+公司办公地址的邮政编码|201808
+公司网址|www.warom.com
+电子信箱|warom@warom.com

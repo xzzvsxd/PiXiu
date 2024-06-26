@@ -1,0 +1,13 @@
+page|5
+公司的中文名称|重庆再升科技股份有限公司
+公司的中文简称|再升科技
+公司的外文名称|CHONGQING ZAISHENG TECHNOLOGY CO.,LTD
+公司的外文名称缩写|ZAISHENG TECHNOLOGY
+公司的法定代表人|郭茂
+page|5
+公司注册地址|重庆市渝北区回兴街道婵衣路1号
+公司注册地址的邮政编码|401120
+公司办公地址|重庆市渝北区回兴街道婵衣路1号
+公司办公地址的邮政编码|401120
+公司网址|www.cqzskj.com
+电子信箱|mail@cqzskj.com

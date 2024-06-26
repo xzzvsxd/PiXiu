@@ -1,0 +1,13 @@
+page|6
+公司的中文名称|上海康德莱企业发展集团股份有限公司
+公司的中文简称|康德莱
+公司的外文名称|Shanghai Kindly Enterprise Development Group Co.,LTD.
+公司的外文名称缩写 KDL|
+公司的法定代表人|张维鑫
+page|6
+公司注册地址|上海市嘉定区高潮路658号1幢2楼
+公司注册地址的邮政编码|201803
+公司办公地址|上海市嘉定区高潮路658号
+公司办公地址的邮政编码|201803
+公司网址|http://www.kdlchina.cn
+电子信箱|kdl@kdlchina.net

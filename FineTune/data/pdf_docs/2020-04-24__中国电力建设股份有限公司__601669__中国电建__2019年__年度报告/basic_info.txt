@@ -1,0 +1,13 @@
+page|7
+公司的中文名称|中国电力建设股份有限公司
+公司的中文简称|中国电建
+公司的外文名称|Power Construction Corporation of China,Ltd（POWERCHINALtd)
+公司的外文名称缩写|POWERCHINA Ltd
+公司的法定代表人|晏志勇
+page|7
+公司注册地址|北京市海淀区车公庄西路22号
+公司注册地址的邮政编码|100048
+公司办公地址|北京市海淀区车公庄西路22号
+公司办公地址的邮政编码|100048
+公司网址|www.powerchina.cn
+电子信箱|zgsd@sinohydro.com

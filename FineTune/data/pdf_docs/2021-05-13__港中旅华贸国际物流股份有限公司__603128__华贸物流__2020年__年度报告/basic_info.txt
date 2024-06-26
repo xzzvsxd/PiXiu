@@ -1,0 +1,13 @@
+page|6
+公司的中文名称|港中旅华贸国际物流股份有限公司
+公司的中文简称|华贸物流
+公司的外文名称|CTS International Logistics Corporation Limited
+公司的外文名称缩写|CTS Logistics
+公司的法定代表人|向宏
+page|6
+公司注册地址|上海市浦东机场海天一路528号
+公司注册地址的邮政编码|201202
+公司办公地址|上海市南京西路338号天安中心20楼
+公司办公地址的邮政编码|200003
+公司网址|http://www.ctsfreight.com
+电子信箱|ird@ctsfreight.com

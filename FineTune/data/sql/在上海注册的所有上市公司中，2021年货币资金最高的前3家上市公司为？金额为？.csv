@@ -1,0 +1,1 @@
+{"id": "在上海注册的所有上市公司中，2021年货币资金最高的前3家上市公司为？金额为？", "question": "在上海注册的所有上市公司中，2021年货币资金最高的前3家上市公司为？金额为？", "sql": "SELECT 公司全称, 货币资金 FROM company_table WHERE 年份 = '2021' AND 注册地址 LIKE '%上海%'  AND 货币资金 IS NOT NULL ORDER BY 货币资金 DESC LIMIT 3"}

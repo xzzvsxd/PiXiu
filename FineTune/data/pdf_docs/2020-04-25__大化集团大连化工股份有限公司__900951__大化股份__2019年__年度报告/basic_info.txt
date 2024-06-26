@@ -1,0 +1,16 @@
+page|5
+公司的中文名称|大化集团大连化工股份有限公司
+公司的中文简称|大化B股
+公司的外文名称|DAHUA GROUP DALIAN CHEMICAL INDUSTRY CO.,LTD
+公司的外文名称缩写|DLHG
+公司的法定代表人|易力
+|
+|
+page|5
+公司注册地址|大连市普湾新区松木岛化工园区
+公司注册地址的邮政编码|116308
+page|6
+公司办公地址|大连市普湾新区松木岛化工园区
+公司办公地址的邮政编码|116308
+公司网址|www.dahuagf.com
+电子信箱|dhjtdlhuagong@sina.com

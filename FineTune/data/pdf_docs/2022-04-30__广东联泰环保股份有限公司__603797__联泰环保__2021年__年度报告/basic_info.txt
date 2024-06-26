@@ -1,0 +1,13 @@
+page|7
+公司的中文名称|广东联泰环保股份有限公司
+公司的中文简称|联泰环保
+公司的外文名称|Guangdong Liantai Environmental Protection Co.,Ltd.
+公司的外文名称缩写|Liantai Environmental Protection（LTEP）
+公司的法定代表人|黄建勲
+page|7
+公司注册地址|广东省汕头市中山东路黄厝围龙珠水质净化厂
+公司注册地址的历史变更情况|不适用
+公司办公地址|广东省汕头市中山东路黄厝围龙珠水质净化厂
+公司办公地址的邮政编码|515041
+公司网址|http://www.lt-hbgf.com
+电子信箱|ltep@lt-hbgf.com

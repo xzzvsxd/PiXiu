@@ -1,0 +1,15 @@
+page|5
+公司的中文名称|江苏必得科技股份有限公司
+公司的中文简称|必得科技
+公司的外文名称|Jiangsu Bide Science and Technology Co., Ltd.
+公司的外文名称缩写|Bide Science and Technology
+公司的法定代表人|王坚群
+|
+|
+page|6
+公司注册地址|江苏省江阴市月城镇月翔路27号
+公司注册地址的邮政编码|214404
+公司办公地址|江苏省江阴市月城镇月翔路27号
+公司办公地址的邮政编码|214404
+公司网址|http://www.bidekeji.com
+电子信箱|tangshuangxi@bidekeji.com

@@ -1,0 +1,13 @@
+page|6
+公司的中文名称|上海柏楚电子科技股份有限公司
+公司的中文简称|柏楚电子
+公司的外文名称|ShanghaiFriendessElectronicTechnologyCorporationLimited
+公司的外文名称缩写|ShanghaiFriendess
+公司的法定代表人|唐晔
+公司注册地址|上海市闵行区东川路555号乙楼1033室
+公司注册地址的邮政编码|200240
+公司办公地址|上海市闵行区剑川路953弄322号
+page|7
+公司办公地址的邮政编码|200240
+公司网址|http://www.fscut.com/
+电子信箱|bcchu@fscut.com

@@ -1,0 +1,13 @@
+page|6
+公司的中文名称|上海益民商业集团股份有限公司
+公司的中文简称|益民集团
+公司的外文名称|SHANGHAI YIMIN COMMERCIAL GROUP CO.,LTD.
+公司的外文名称缩写|YIMIN GROUP
+公司的法定代表人|陈洪志
+page|6
+公司注册地址|上海市淮海中路809号甲七楼
+公司注册地址的邮政编码|200020
+公司办公地址|上海市淮海中路809号甲
+公司办公地址的邮政编码|200020
+公司网址|http://www.yimingroup.com
+电子信箱|yimin@yimingroup.com

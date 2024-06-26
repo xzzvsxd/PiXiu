@@ -1,0 +1,12 @@
+page|5
+公司的中文名称|重庆啤酒股份有限公司
+公司的中文简称|重庆啤酒
+公司的外文名称|Chongqing Brewery Company Limited
+公司的外文名称缩写|CBC
+公司的法定代表人|Leonard Cornelis Jorden Evers
+page|6
+公司注册地址|重庆市北部新区高新园大竹林街道恒山东路9号
+公司办公地址|中国广东省广州市天河区珠江东路13号高德置地广场第三期E座8层
+公司办公地址的邮政编码|510627
+公司网址|www.carlsbergchina.com.cn
+电子信箱|CBCSMIR@chongqinggroup.cn
